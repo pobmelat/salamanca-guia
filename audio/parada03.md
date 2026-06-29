@@ -1,26 +1,25 @@
 # 03 · Plaza Mayor
 
-## Introducción
+## Sarrera
 
-Esta vez la Plaza Mayor no es el gran final del día, sino la puerta de entrada. Párate solo unos minutos: mañana podrás volver con otra luz y otro ritmo.
+Oraingoan Plaza Mayor ez da eguneko amaiera handia, sarrerako atea baizik. Gelditu minutu batzuk bakarrik: bihar beste argi eta beste erritmo batekin itzul zaitezke.
 
-## Qué observar
+## Zer begiratu
 
-Colócate aproximadamente en el centro y gira despacio. La plaza parece perfectamente regular, pero cada pabellón tiene su propia función y la espadaña del Ayuntamiento rompe la horizontal.
+Jarri gutxi gorabehera erdian eta egin bira poliki. Plaza erabat erregularra dirudi, baina pabiloi bakoitzak bere eginkizuna du eta Udaletxeko kanpai-hormak horizontala hausten du.
 
 ## Historia
 
-La plaza barroca se levantó en el siglo XVIII. Alberto de Churriguera inició el proyecto y Andrés García de Quiñones completó buena parte del conjunto. Los medallones de los arcos convierten el paseo porticado en una galería de personajes.
+Plaza barrokoa XVIII. mendean eraiki zen. Alberto de Churriguerak abiatu zuen proiektua, eta Andrés García de Quiñonesek osatu zuen multzoaren zati handi bat. Arkuetako medailoiek pertsonaien galeria bihurtzen dute arkupeetako ibilaldia.
 
-## Curiosidad
+## Bitxikeria
 
-Cuenta los lados con la vista: la impresión es la de un cuadrado perfecto, aunque la planta real no lo sea. La arquitectura corrige nuestra percepción con ritmo y repetición.
+Zenbatu aldeak begiradaz: karratu perfektu baten inpresioa ematen du, oinplano erreala hala ez izan arren. Arkitekturak erritmoaren eta errepikapenaren bidez zuzentzen du gure pertzepzioa.
 
-## Dónde hacer la fotografía
+## Non egin argazkia
 
-Desde el centro, encuadra el Ayuntamiento en vertical; para una toma más tranquila, usa uno de los arcos de los soportales como marco. A esta hora la luz puede ser dura: expón para la piedra y deja el cielo algo más claro.
+Erdigunetik, enkoadratu Udaletxea bertikalean; argazki lasaiago baterako, erabili arkupeetako arkuetako bat marko gisa. Ordu honetan argia gogorra izan daiteke: neurtu harrirako eta utzi zerua pixka bat argiago.
 
-## Cómo continuar
+## Nola jarraitu
 
-Abandona la plaza por la salida suroeste y toma la Rúa Mayor. En unos cinco minutos aparecerán frente a frente la Casa de las Conchas y la Clerecía.
-
+Irten plazatik hego-mendebaldeko irteeratik eta hartu Rúa Mayor. Bost minutu inguruan aurrez aurre agertuko dira Casa de las Conchas eta Clerecía.

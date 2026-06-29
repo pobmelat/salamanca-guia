@@ -1,26 +1,25 @@
-# 05 · Universidad, Patio de Escuelas
+# 05 · Unibertsitatea, Patio de Escuelas
 
-## Introducción
+## Sarrera
 
-Este patio es un pequeño escenario. Ponte cerca de Fray Luis de León y deja que la estatua te indique dónde mirar: la fachada es casi una página de piedra.
+Patio hau eszenatoki txiki bat da. Jarri Fray Luis de León ondoan eta utzi estatuak nora begiratu esaten: fatxada ia harrizko orrialde bat da.
 
-## Qué observar
+## Zer begiratu
 
-Recorre la fachada de abajo arriba. Primero los Reyes Católicos, luego los escudos y medallones, y finalmente la zona más simbólica. No conviertas la rana en una búsqueda ansiosa; el conjunto importa más que el juego.
+Igo begirada fatxadan behetik gora. Lehenik Errege Katolikoak, gero armarrien eta medailoien eremua, eta azkenik zatirik sinbolikoena. Ez bihurtu igela bilaketa urduri batean; multzoak jokoak baino gehiago balio du.
 
 ## Historia
 
-La Universidad de Salamanca remonta su origen a 1218. La célebre fachada plateresca es posterior, de comienzos del siglo XVI, y presenta el poder, el conocimiento y la monarquía como partes de un mismo programa visual.
+Salamancako Unibertsitatearen jatorria 1218ra doa. Fatxada plateresko ospetsua geroagokoa da, XVI. mendearen hasierakoa, eta boterea, ezagutza eta monarkia programa bisual beraren zati gisa aurkezten ditu.
 
-## Curiosidad
+## Bitxikeria
 
-La rana está sobre una calavera. La tradición estudiantil promete suerte académica a quien la encuentra, aunque quizá la lección más sensata sea otra: mirar con atención siempre ayuda en un examen.
+Igela garezur baten gainean dago. Ikasleen tradizioak zorte akademikoa agintzen dio aurkitzen duenari, baina agian zentzuzkoena beste ikasgai bat da: arreta handiz begiratzeak beti laguntzen du azterketa batean.
 
-## Dónde hacer la fotografía
+## Non egin argazkia
 
-Sitúate detrás o ligeramente a un lado de Fray Luis para incluir su silueta y la fachada. Orientación: oeste. Para los relieves, usa zoom y evita inclinar demasiado el móvil.
+Jarri Fray Luisen atzean edo pixka bat albo batean haren silueta eta fatxada batera sartzeko. Orientazioa: mendebaldea. Erliebeetarako, erabili zooma eta saihestu mugikorra gehiegi makurtzea.
 
-## Cómo continuar
+## Nola jarraitu
 
-Sal del Patio de Escuelas hacia la calle Compañía y avanza al noroeste. La ruta te lleva al Palacio de Monterrey en unos diez minutos; es una parada fotográfica breve antes de Fonseca.
-
+Irten Patio de Escuelasetik Compañía kalerantz eta egin aurrera ipar-mendebaldera. Ibilbideak Monterrey jauregira eramango zaitu hamar minutu inguruan; Fonsecaren aurreko argazki-geldialdi laburra da.

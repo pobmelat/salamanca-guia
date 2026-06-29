@@ -1,25 +1,25 @@
 # 02 · Café Novelty
 
-## Introducción
+## Sarrera
 
-Has llegado al descanso justo cuando toca, que es exactamente la idea. Entra en Novelty entre las 17:23 y las 17:25 y reserva unos veinte minutos para el café.
+Atsedenaldira une egokian iritsi zara, eta hori zen asmoa. Sartu Noveltyn 17:23 eta 17:25 artean, eta gorde hogei minutu inguru kafearentzat.
 
-## Qué observar
+## Zer begiratu
 
-Busca el ambiente de café de conversación, no solo la vista de la Plaza. Dentro está la escultura de Gonzalo Torrente Ballester, sentado como un cliente más.
+Bilatu hizketarako kafetegi-giroa, ez bakarrik Plazaren ikuspegia. Barruan Gonzalo Torrente Ballesterren eskultura dago, beste bezero bat balitz bezala eserita.
 
 ## Historia
 
-Novelty abrió en 1905 y se presenta como el café más antiguo de Salamanca. Por sus mesas pasó buena parte de la vida cultural de la ciudad. El local actual conserva esa memoria, aunque haya cambiado con el tiempo.
+Novelty 1905ean ireki zuten, eta Salamancako kafetegirik zaharrena dela aldarrikatzen du. Haren mahaietatik hiriko bizitza kulturalaren zati handi bat igaro zen. Egungo lokalak memoria hori gordetzen du, denborarekin aldatu bada ere.
 
-## Curiosidad
+## Bitxikeria
 
-Torrente Ballester escribió sobre ciudades imaginarias, pero aquí terminó convertido en vecino permanente del café. Si hay sitio, sentarse cerca de él es el pequeño ritual de la parada.
+Torrente Ballesterrek hiri imajinarioei buruz idatzi zuen, baina hemen kafetegiko bizilagun iraunkor bihurtu zen. Tokirik badago, haren ondoan esertzea da geldialdi honetako erritu txikia.
 
-## Dónde hacer la fotografía
+## Non egin argazkia
 
-Haz una toma interior hacia la escultura sin molestar a otros clientes. En el exterior, sitúate bajo los soportales y fotografía la Plaza en diagonal, con los arcos como marco. Orientación aproximada: este-noreste.
+Egin barruko argazki bat eskulturarantz, beste bezeroei trabarik egin gabe. Kanpoan, jarri arkupeen azpian eta atera Plazaren argazkia diagonalean, arkuekin marko gisa. Gutxi gorabeherako orientazioa: ekialde-ipar-ekialdea.
 
-## Cómo continuar
+## Nola jarraitu
 
-Sal de Novelty hacia el centro de la Plaza Mayor. La siguiente parada está a menos de un minuto: no actives todavía el paso rápido; primero mira el espacio completo.
+Irten Noveltytik Plaza Mayorreko erdialderantz. Hurrengo geldialdia minutu bat baino gutxiagora dago: ez hasi oraindik presaka; lehenik begiratu espazio osoa.

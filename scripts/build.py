@@ -74,13 +74,13 @@ FACTS = {
 }
 
 SPEECH = {
-    1: "Empieza sin prisa. Esta tarde no vamos a hacer Salamanca: vamos a aprender a leerla. Camina hacia el centro y observa cómo la piedra dorada va sustituyendo a la ciudad moderna.",
-    2: "Has llegado al descanso justo en el momento bueno. Novelty abrió en 1905. Busca dentro a Gonzalo Torrente Ballester, sentado como un cliente más, y reserva unos veinte minutos para el café.",
-    3: "Esta vez la Plaza Mayor es la puerta de entrada, no el gran final. Colócate en el centro y gira despacio. Parece un cuadrado perfecto, aunque no lo sea.",
-    4: "No mires solo las conchas. Fíjate también en las rejas, la portada y las torres de la Clerecía. La leyenda dice que una de las conchas esconde un tesoro.",
-    5: "Ponte cerca de Fray Luis y recorre la fachada de abajo arriba. La rana está sobre una calavera, pero no dejes que el juego te impida mirar el conjunto.",
-    6: "Esta es una pausa breve. Mira la crestería, las torres y las chimeneas. El palacio es solo una parte del proyecto original, pero bastó para influir en muchos edificios posteriores.",
-    7: "La ruta termina aquí, justo cuando empieza la recepción. Has cruzado desde la Salamanca contemporánea hasta uno de sus antiguos colegios mayores. Antes de entrar, mira la portada sin prisa.",
+    1: "Lasai hasi. Gaur arratsaldean ez dugu Salamanca osoa egin nahi: hiria irakurtzen ikasi nahi dugu. Erdigunerantz abiatu eta begiratu nola urrezko harriak hiri garaikidea ordezkatzen duen apurka-apurka.",
+    2: "Atsedenaldira une egokian iritsi zara. Novelty kafetegia 1905ean ireki zuten. Barruan bilatu Gonzalo Torrente Ballester, beste bezero bat balitz bezala eserita, eta hartu hogei minutu inguru kafearentzat.",
+    3: "Gaur Plaza Mayor ez da eguneko amaiera handia, sarrerako atea baizik. Jarri erdian eta egin bira poliki. Lauki perfektua dirudi, baina ez da guztiz hala.",
+    4: "Ez begiratu maskorrei bakarrik. Erreparatu leihoetako burdinlanei, atariari eta aurrez aurre dauden Clerecíako dorreei. Kondairak dio maskorretako batek altxor bat gordetzen duela.",
+    5: "Jarri Fray Luisen ondoan eta igo begirada fatxadan gora. Igelak garezur baten gainean dago, baina ez utzi joko horrek multzo osoa ikustea galarazten.",
+    6: "Hau geldialdi laburra da. Begiratu gailurreria, dorreak eta tximiniak. Jauregia hasierako proiektuaren zati bat besterik ez zen, baina nahikoa izan zen geroagoko eraikin askotan eragina izateko.",
+    7: "Ibilbidea hemen amaitzen da, harrera hasten den une berean. Salamanca garaikidetik haren ikastetxe nagusi historikoetako batera iritsi zara. Sartu aurretik, begiratu ataria lasai.",
 }
 
 
@@ -206,7 +206,7 @@ def write_app_data(coords):
     payload = {
         "meta": {"title":"Salamanca · Día 1", "distance":"3,45 km", "window":"17:00–18:45", "geofenceMeters":45},
         "route": [[round(lon,7), round(lat,7)] for lon,lat in coords],
-        "stops": [{**s, "speech":SPEECH[s["id"]], "image": ("../images/"+s["image"] if s["image"] else None)} for s in STOPS],
+        "stops": [{**s, "speech":SPEECH[s["id"]], "image": ("../images/"+s["image"] if s["image"] else None), "audio": f'../audio/parada{s["id"]:02d}.mp4'} for s in STOPS],
     }
     (ROOT / "app/data.js").write_text("window.GUIDE_DATA = " + json.dumps(payload, ensure_ascii=False) + ";\n", encoding="utf-8")
 

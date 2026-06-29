@@ -1,26 +1,25 @@
-# 07 · Colegio Arzobispo Fonseca
+# 07 · Arzobispo Fonseca ikastetxea
 
-## Introducción
+## Sarrera
 
-La ruta termina aquí, justo cuando empieza otra parte de la tarde. Has cruzado en menos de dos horas desde la Salamanca contemporánea hasta uno de sus antiguos colegios mayores.
+Ibilbidea hemen amaitzen da, arratsaldeko beste zati bat hasten den une berean. Bi ordu baino gutxiagoan Salamanca garaikidetik haren antzinako ikastetxe nagusietako batera iritsi zara.
 
-## Qué observar
+## Zer begiratu
 
-Antes de entrar, mira la fachada y su portada. Si la recepción permite pasar al patio, deja la audioguía en pausa: ese espacio merece ser visto sin instrucciones.
+Sartu aurretik, begiratu fatxada eta ataria. Harrerak patiora pasatzeko aukera ematen badu, utzi audiogida pausatuta: espazio hori azalpenik gabe ikustea merezi du.
 
 ## Historia
 
-Alonso de Fonseca fundó el colegio y las obras comenzaron en 1519. Nació con una función docente y residencial y hoy acoge alojamiento universitario, actos culturales y encuentros institucionales.
+Alonso de Fonsecak sortu zuen ikastetxea, eta lanak 1519an hasi ziren. Hasieran irakaskuntzarako eta egoitzarako izan zen, eta gaur egun unibertsitate-ostatua, kultur ekitaldiak eta topaketa instituzionalak hartzen ditu.
 
-## Curiosidad
+## Bitxikeria
 
-También fue conocido como Colegio de los Irlandeses por los estudiantes católicos irlandeses vinculados a esta institución en siglos posteriores.
+Ondorengo mendeetan erakunde honi lotutako ikasle katoliko irlandarrengatik, Irlandarren Ikastetxea izenez ere ezagutu zen.
 
-## Dónde hacer la fotografía
+## Non egin argazkia
 
-Desde la acera opuesta, encuadra la portada de frente. Si hay gente llegando a la recepción, una toma ligeramente lateral será más discreta y mostrará mejor el volumen del edificio. Mejor hora de esta ruta: 18:40–18:45.
+Kontrako espaloitik, enkoadratu ataria aurrez aurre. Harrerara jendea iristen ari bada, albo pixka bateko hartualdi bat diskretuagoa izango da eta eraikinaren bolumena hobeto erakutsiko du. Ibilbide honetarako ordurik onena: 18:40–18:45.
 
-## Cómo continuar
+## Nola jarraitu
 
-Entra a la recepción. La ruta de la aplicación queda terminada aquí; no propone regreso automático al hotel. Antes del viaje conviene confirmar en el programa del congreso que la recepción es efectivamente en C/ Fonseca, 4.
-
+Sartu harrerara. Aplikazioaren ibilbidea hemen amaitzen da; ez du hotelerako itzulera automatikorik proposatzen. Bidaiaren aurretik komeni da kongresuko programan baieztatzea harrera benetan Fonseca kalea 4an dela.

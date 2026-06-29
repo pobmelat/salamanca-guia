@@ -1,26 +1,25 @@
-# 06 · Palacio de Monterrey
+# 06 · Monterrey jauregia
 
-## Introducción
+## Sarrera
 
-Esta es una pausa de cinco minutos, no una visita. El palacio funciona como una bisagra entre el núcleo universitario y Fonseca.
+Hau bost minutuko etenaldia da, ez bisita osoa. Jauregiak unibertsitate-gunearen eta Fonsecaren arteko giltza-lana egiten du.
 
-## Qué observar
+## Zer begiratu
 
-Mira la crestería recortada contra el cielo, las torres y las chimeneas. La parte superior concentra tanta personalidad que dio nombre a un estilo imitado en edificios de otras ciudades.
+Begiratu zeruaren kontra moztutako gailurreria, dorreak eta tximiniak. Goiko aldeak hainbesteko nortasuna du, non beste hiri batzuetako eraikinek imitatutako estilo bati izena eman zion.
 
 ## Historia
 
-El palacio comenzó a construirse en 1539 para el conde de Monterrey. Solo se ejecutó una parte del proyecto original, pero bastó para convertirlo en una referencia de la arquitectura renacentista española.
+Jauregia 1539an hasi ziren eraikitzen Monterreyko kondearentzat. Jatorrizko proiektuaren zati bat baino ez zen gauzatu, baina nahikoa izan zen Espainiako arkitektura errenazentistaren erreferente bihurtzeko.
 
-## Curiosidad
+## Bitxikeria
 
-Lo que hoy parece un edificio completo era, en realidad, una fracción de una ambición mucho mayor. A veces la arquitectura más influyente nace de un proyecto inacabado.
+Gaur eraikin osoa dirudiena, egiaz, asmo askoz handiago baten zati bat zen. Batzuetan eragin handiena duen arkitektura amaitu gabeko proiektu batetik sortzen da.
 
-## Dónde hacer la fotografía
+## Non egin argazkia
 
-Desde la plaza, aléjate hacia el sureste para incluir una torre y la galería superior en diagonal. A esta hora, busca que la luz roce la piedra. Orientación aproximada: noroeste.
+Plazatik, urrundu hego-ekialderantz dorre bat eta goiko galeria diagonalean sartzeko. Ordu honetan saiatu argiak harria laztan dezan. Gutxi gorabeherako orientazioa: ipar-mendebaldea.
 
-## Cómo continuar
+## Nola jarraitu
 
-Toma la calle Bordadores y continúa hacia Fonseca. Quedan unos ocho minutos. No te entretengas demasiado: el objetivo es llegar a la puerta entre las 18:40 y las 18:45.
-
+Hartu Bordadores kalea eta jarraitu Fonsecarantz. Zortzi minutu inguru falta dira. Ez geratu gehiegi: helburua 18:40 eta 18:45 artean atean egotea da.

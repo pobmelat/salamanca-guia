@@ -1,26 +1,25 @@
 # 04 · Casa de las Conchas
 
-## Introducción
+## Sarrera
 
-Aquí Salamanca juega a ser libro y acertijo. No hace falta entrar: la fachada ya cuenta una historia de linajes, símbolos y prestigio.
+Hemen Salamancak liburu eta igarkizun izatera jokatzen du. Ez da barrura sartu behar: fatxadak berak kontatzen du leinuen, sinboloen eta prestigioaren historia.
 
-## Qué observar
+## Zer begiratu
 
-No mires solo las conchas. Fíjate en las rejas de las ventanas, en la puerta y en el diálogo con las torres de la Clerecía, justo enfrente. El espacio es estrecho y obliga a mirar hacia arriba.
+Ez begiratu maskorrei bakarrik. Erreparatu leihoetako saretei, ateari eta aurrez aurre dauden Clerecíako dorreekin duen elkarrizketari. Espazioa estua da eta gora begiratzera behartzen du.
 
 ## Historia
 
-El palacio se construyó entre finales del siglo XV y comienzos del XVI para Rodrigo Arias Maldonado. Las conchas se asocian a la Orden de Santiago y también al emblema familiar de los Pimentel.
+Jauregia XV. mendearen amaiera eta XVI.aren hasiera artean eraiki zuten Rodrigo Arias Maldonadorentzat. Maskorrak Santiago Ordenarekin lotzen dira, baina baita Pimentel familiaren ikurrarekin ere.
 
-## Curiosidad
+## Bitxikeria
 
-La leyenda dice que una de las conchas oculta un tesoro. Es una historia perfecta para una fachada repetitiva: cuando todo parece igual, uno empieza a buscar la excepción.
+Kondairak dio maskorretako batek altxor bat ezkutatzen duela. Istorio ezin hobea da fatxada errepikakor baterako: dena berdina dirudienean, salbuespena bilatzen hasten gara.
 
-## Dónde hacer la fotografía
+## Non egin argazkia
 
-Cruza hacia la Clerecía y usa una focal amplia. Para captar el ritmo de las conchas, fotografía en diagonal desde el extremo norte de la fachada. Orientación: oeste-suroeste.
+Gurutzatu Clerecíarantz eta erabili angelu zabal samarra. Maskorren erritmoa harrapatzeko, atera argazkia diagonalean fatxadaren iparraldeko muturretik. Orientazioa: mendebalde-hego-mendebaldea.
 
-## Cómo continuar
+## Nola jarraitu
 
-Sigue por la calle Libreros y gira hacia el Patio de Escuelas. Son unos cuatro minutos a pie. Allí busca la fachada histórica de la Universidad y la estatua de Fray Luis de León.
-
+Jarraitu Libreros kaletik eta biratu Patio de Escuelaserantz. Lau minutu inguruko bidea da oinez. Han bilatu Unibertsitatearen fatxada historikoa eta Fray Luis de Leónen estatua.

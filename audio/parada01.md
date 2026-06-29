@@ -1,26 +1,25 @@
-# 01 · Salida: Zenit Hall88
+# 01 · Irteera: Zenit Hall88
 
-## Introducción
+## Sarrera
 
-Empieza sin prisa. Esta tarde no vamos a “hacer Salamanca”: solo vamos a aprender a leerla. Desde un barrio universitario moderno caminaremos hacia la piedra dorada del centro y terminaremos justo donde empieza la recepción.
+Lasai hasi. Gaur arratsaldean ez dugu “Salamanca egin” nahi: hiria irakurtzen ikasi besterik ez dugu egingo. Unibertsitate-auzo moderno batetik abiatu, erdiguneko harri urrezturantz joan eta harrera hasten den leku berean amaituko dugu.
 
-## Qué observar
+## Zer begiratu
 
-Mira cómo cambia la ciudad al acercarte al casco histórico: las avenidas se estrechan, baja el tráfico y la piedra arenisca empieza a dominar las fachadas.
+Begiratu nola aldatzen den hiria alde zaharrera hurbiltzean: etorbideak estutu egiten dira, trafikoa gutxitzen da eta hareharria fatxadetan nagusitzen hasten da.
 
 ## Historia
 
-El hotel está junto al campus Miguel de Unamuno y frente a la estación de autobuses. Es una buena frontera entre la Salamanca cotidiana y la monumental.
+Hotela Miguel de Unamuno campusaren ondoan dago, autobus-geltokiaren aurrean. Eguneroko Salamanca eta Salamanca monumentala bereizten dituen muga ona da.
 
-## Curiosidad
+## Bitxikeria
 
-La piedra de Villamayor parece casi crema durante el día, pero con luz lateral se vuelve miel. Ese cambio de color será el hilo visual del paseo.
+Villamayorreko harria ia krema kolorekoa dirudi egunez, baina albo-argiarekin ezti kolorekoa bihurtzen da. Kolore-aldaketa hori izango da paseoaren hari bisuala.
 
-## Dónde hacer la fotografía
+## Non egin argazkia
 
-No hace falta fotografiar el hotel. Guarda la primera imagen para cuando aparezca la Plaza Mayor: el contraste contará mejor la llegada.
+Ez da beharrezkoa hotela fotografiatzea. Gorde lehen irudia Plaza Mayor agertzen denerako: kontrasteak hobeto kontatuko du iritsiera.
 
-## Cómo continuar
+## Nola jarraitu
 
-Sal por la calle Peña de Francia y sigue la ruta hacia el centro. El primer objetivo es Café Novelty, a unos veinte minutos. Cruza las avenidas por los pasos señalizados.
-
+Irten Peña de Francia kaletik eta jarraitu erdigunerantz. Lehen helburua Café Novelty da, hogei minutu ingurura. Gurutza itzazu etorbideak seinaleztatutako pasabideetatik.
