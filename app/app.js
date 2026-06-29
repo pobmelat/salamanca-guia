@@ -1,60 +1,191 @@
 (() => {
-  const D = window.GUIDE_DATA;
-  const NS = "http://www.w3.org/2000/svg";
-  const bounds = getBounds(D.route, D.stops);
-  const map = document.querySelector("#route-map");
-  const routeLayer = document.querySelector("#route-layer");
-  const stopLayer = document.querySelector("#stop-layer");
-  const userLayer = document.querySelector("#user-layer");
-  const startBtn = document.querySelector("#start-btn");
-  const centerBtn = document.querySelector("#center-btn");
-  const gpsStatus = document.querySelector("#gps-status");
-  const gpsDot = document.querySelector("#gps-dot");
-  const nextStatus = document.querySelector("#next-status");
-  const progress = document.querySelector("#progress");
-  const audioEl = new Audio();
-  let watchId = null, userPos = null, active = false, currentStop = 0;
-  const played = new Set(JSON.parse(localStorage.getItem("playedStops") || "[]"));
+  const DATA = window.GUIDE_DATA;
+  const qs = new URLSearchParams(window.location.search);
+  const defaultSlug = qs.get("route") || DATA.app.defaultRoute || DATA.routes[0]?.slug;
 
-  function getBounds(route, stops){
-    const all = [...route,...stops.map(s=>[s.lon,s.lat])];
-    const xs=all.map(p=>p[0]), ys=all.map(p=>p[1]);
-    return {minX:Math.min(...xs)-.0012,maxX:Math.max(...xs)+.0012,minY:Math.min(...ys)-.0009,maxY:Math.max(...ys)+.0009};
+  const routePicker = document.querySelector("#route-picker");
+  const routeTitle = document.querySelector("#route-title");
+  const routeSubtitle = document.querySelector("#route-subtitle");
+  const routeMeta = document.querySelector("#route-meta");
+  const routeSummary = document.querySelector("#route-summary");
+  const routeMapBtn = document.querySelector("#route-map-btn");
+  const resetBtn = document.querySelector("#reset-btn");
+  const progressLabel = document.querySelector("#progress-label");
+  const progressBar = document.querySelector("#progress-bar");
+  const stopsEl = document.querySelector("#stops");
+
+  let currentRoute = null;
+
+  function visitedKey(slug) {
+    return `visited:${slug}`;
   }
-  function project(lon,lat){return [55+(lon-bounds.minX)/(bounds.maxX-bounds.minX)*890,645-(lat-bounds.minY)/(bounds.maxY-bounds.minY)*590]}
-  function el(name,attrs={}){const n=document.createElementNS(NS,name);Object.entries(attrs).forEach(([k,v])=>n.setAttribute(k,v));return n}
-  const pts=D.route.map(p=>project(p[0],p[1])).map(p=>p.join(",")).join(" ");
-  routeLayer.append(el("polyline",{points:pts,class:"route-shadow"}),el("polyline",{points:pts,class:"route-line"}));
-  const kindColor={start:"#334f49",cafe:"#c4633b",monument:"#2e6a54",photo:"#c28b2c",finish:"#6a4777"};
-  D.stops.forEach((s,i)=>{const [x,y]=project(s.lon,s.lat),g=el("g",{class:"marker",tabindex:"0","aria-label":`${s.time}, ${s.name}`});
-    g.append(el("circle",{cx:x,cy:y,r:20,fill:kindColor[s.kind]}));const num=el("text",{x,y});num.textContent=s.id;g.append(num);
-    const label=el("text",{x:x+27,y:y+(i===3||i===4?28:-24),class:"marker-label"});label.textContent=s.short;g.append(label);stopLayer.append(g)});
 
-  const list=document.querySelector("#stops");
-  D.stops.forEach((s,i)=>{const article=document.createElement("article");article.className="stop";article.dataset.index=i;
-    const media=s.image?`<img src="${s.image}" alt="${s.name}" loading="lazy">`:`<div class="photo-fallback" aria-hidden="true">⌂</div>`;
-    article.innerHTML=`${media}<div class="stop-body"><span class="stop-time">${s.time}</span><h2>${s.name}</h2><p>${s.desc}</p><button class="play" data-play="${i}">▶ Escuchar</button></div>`;list.append(article)});
-  list.addEventListener("click",e=>{const b=e.target.closest("[data-play]");if(b){stopNarration();speak(+b.dataset.play,true)}});
+  function getVisited(slug) {
+    return new Set(JSON.parse(localStorage.getItem(visitedKey(slug)) || "[]"));
+  }
 
-  function distance(a,b){const R=6371000,p1=a.lat*Math.PI/180,p2=b.lat*Math.PI/180,dp=(b.lat-a.lat)*Math.PI/180,dl=(b.lon-a.lon)*Math.PI/180;const h=Math.sin(dp/2)**2+Math.cos(p1)*Math.cos(p2)*Math.sin(dl/2)**2;return 2*R*Math.asin(Math.sqrt(h))}
-  function stopNarration(){speechSynthesis.cancel();audioEl.pause();audioEl.currentTime=0}
-  function rememberPlayed(id){played.add(id);localStorage.setItem("playedStops",JSON.stringify([...played]))}
-  function speak(i,manual=false){const s=D.stops[i];if(!manual&&played.has(s.id))return;
-    if(s.audio){
-      audioEl.src=s.audio;audioEl.onended=()=>rememberPlayed(s.id);audioEl.onerror=()=>speakFallback(s);audioEl.play().then(()=>rememberPlayed(s.id)).catch(()=>speakFallback(s));return;
+  function setVisited(slug, visited) {
+    localStorage.setItem(visitedKey(slug), JSON.stringify([...visited].sort((a, b) => a - b)));
+  }
+
+  function createRouteButtons() {
+    routePicker.innerHTML = "";
+    DATA.routes.forEach(route => {
+      const link = document.createElement("a");
+      link.className = "route-chip";
+      link.href = `?route=${encodeURIComponent(route.slug)}`;
+      link.textContent = route.title;
+      link.addEventListener("click", event => {
+        event.preventDefault();
+        loadRoute(route.slug);
+      });
+      if (route.slug === currentRoute.slug) link.classList.add("active");
+      routePicker.append(link);
+    });
+  }
+
+  function updateProgress(route, visited) {
+    const total = route.stops.length;
+    const done = route.stops.filter(stop => visited.has(stop.id)).length;
+    progressLabel.textContent = `${done}/${total} geldialdi bisitatuta`;
+    progressBar.style.width = `${(done / total) * 100}%`;
+  }
+
+  function toggleVisited(route, stopId, button, card) {
+    const visited = getVisited(route.slug);
+    if (visited.has(stopId)) {
+      visited.delete(stopId);
+      button.textContent = "Bisitatuta";
+      button.classList.remove("visited");
+      card.classList.remove("done");
+    } else {
+      visited.add(stopId);
+      button.textContent = "Bisita egina";
+      button.classList.add("visited");
+      card.classList.add("done");
     }
-    speakFallback(s)}
-  function speakFallback(s){const u=new SpeechSynthesisUtterance(s.speech);u.lang="es-ES";u.rate=.96;speechSynthesis.speak(u);rememberPlayed(s.id)}
-  function updateCards(i){document.querySelectorAll(".stop").forEach((c,n)=>{c.classList.toggle("current",n===i);c.classList.toggle("passed",n<i)});currentStop=i;progress.style.width=`${i/(D.stops.length-1)*100}%`;nextStatus.textContent=i===D.stops.length-1?"Destino: Fonseca":`Siguiente: ${D.stops[i].short}`}
-  function onPosition(pos){userPos={lat:pos.coords.latitude,lon:pos.coords.longitude,accuracy:pos.coords.accuracy};gpsStatus.textContent=`GPS activo · ±${Math.round(userPos.accuracy)} m`;gpsDot.classList.add("on");centerBtn.disabled=false;drawUser();
-    let best=0,bestD=Infinity;D.stops.forEach((s,i)=>{const d=distance(userPos,s);if(d<bestD){bestD=d;best=i}});
-    const upcoming=D.stops.findIndex((s,i)=>i>=currentStop&&distance(userPos,s)<D.meta.geofenceMeters);
-    if(upcoming>=0){updateCards(upcoming);speak(upcoming)}else if(best>currentStop&&bestD<180)updateCards(best);
+    setVisited(route.slug, visited);
+    updateProgress(route, visited);
   }
-  function drawUser(){userLayer.replaceChildren();if(!userPos)return;const [x,y]=project(userPos.lon,userPos.lat);const scale=890/(bounds.maxX-bounds.minX);const r=Math.min(90,Math.max(12,userPos.accuracy/85000*scale));userLayer.append(el("circle",{cx:x,cy:y,r,class:"accuracy"}),el("circle",{cx:x,cy:y,r:10,class:"user-dot"}))}
-  function onError(err){gpsDot.classList.remove("on");gpsStatus.textContent=err.code===1?"Permiso de ubicación denegado":"No se pudo obtener la ubicación";document.querySelector("#hint").textContent="Puedes seguir usando el mapa y reproducir cada parada manualmente."}
-  startBtn.addEventListener("click",()=>{stopNarration();audioEl.play().then(()=>{audioEl.pause();audioEl.currentTime=0}).catch(()=>{});active=true;startBtn.textContent="Audioguía activada";startBtn.classList.add("active");if(!navigator.geolocation)return onError({code:0});watchId=navigator.geolocation.watchPosition(onPosition,onError,{enableHighAccuracy:true,maximumAge:5000,timeout:15000});});
-  centerBtn.addEventListener("click",()=>{if(!userPos)return;map.scrollIntoView({behavior:"smooth",block:"center"});drawUser()});
-  updateCards(0);
-  if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js"));
+
+  function attachVideoBehavior(container) {
+    const video = container.querySelector("video");
+    if (!video) return;
+
+    const hide = () => {
+      container.hidden = true;
+    };
+
+    video.addEventListener("error", hide, { once: true });
+    video.addEventListener("loadeddata", () => {
+      container.hidden = false;
+    }, { once: true });
+  }
+
+  function renderStops(route) {
+    const visited = getVisited(route.slug);
+    stopsEl.innerHTML = "";
+
+    route.stops.forEach((stop, index) => {
+      const card = document.createElement("article");
+      card.className = "stop-card";
+      if (visited.has(stop.id)) card.classList.add("done");
+
+      const nextButton = index < route.stops.length - 1
+        ? `<button class="soft-btn next-stop" type="button" data-next="${index + 1}">Hurrengo geldialdia</button>`
+        : "";
+
+      const media = stop.image
+        ? `<img class="stop-image" src="${stop.image}" alt="${stop.title}" loading="lazy">`
+        : `<div class="stop-image fallback" aria-hidden="true">✦</div>`;
+
+      const visitedLabel = visited.has(stop.id) ? "Bisita egina" : "Bisitatuta";
+
+      card.innerHTML = `
+        <div class="stop-top">
+          ${media}
+          <div class="stop-main">
+            <span class="stop-time">${stop.time_rel}</span>
+            <h2>${stop.title}</h2>
+            <p class="stop-blurb">${stop.blurb}</p>
+          </div>
+        </div>
+        <div class="stop-actions">
+          <button class="primary-btn toggle-script" type="button">Irakurri gidoi osoa</button>
+          <a class="map-btn" href="${stop.maps_url}" target="_blank" rel="noreferrer">Ireki Google Maps-en</a>
+        </div>
+        <div class="video-wrap" ${stop.video_exists ? "" : "hidden"}>
+          <video controls preload="none" playsinline src="${stop.video_url}"></video>
+        </div>
+        <div class="stop-script" hidden>
+          ${stop.script_html}
+        </div>
+        <dl class="stop-notes">
+          <div>
+            <dt>Argazki-aholkua</dt>
+            <dd>${stop.photo_tip}</dd>
+          </div>
+          <div>
+            <dt>Xehetasun ezkutua</dt>
+            <dd>${stop.hidden_detail}</dd>
+          </div>
+        </dl>
+        <div class="stop-bottom">
+          ${nextButton}
+          <button class="visit-btn ${visited.has(stop.id) ? "visited" : ""}" type="button">${visitedLabel}</button>
+        </div>
+      `;
+
+      const scriptButton = card.querySelector(".toggle-script");
+      const script = card.querySelector(".stop-script");
+      const visitButton = card.querySelector(".visit-btn");
+      const videoWrap = card.querySelector(".video-wrap");
+
+      scriptButton.addEventListener("click", () => {
+        const isHidden = script.hidden;
+        script.hidden = !isHidden;
+        scriptButton.textContent = isHidden ? "Gidoia itxi" : "Irakurri gidoi osoa";
+      });
+
+      visitButton.addEventListener("click", () => toggleVisited(route, stop.id, visitButton, card));
+
+      card.querySelector(".next-stop")?.addEventListener("click", () => {
+        const nextCard = stopsEl.querySelectorAll(".stop-card")[index + 1];
+        nextCard?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+
+      attachVideoBehavior(videoWrap);
+      stopsEl.append(card);
+    });
+
+    updateProgress(route, visited);
+  }
+
+  function loadRoute(slug) {
+    const route = DATA.routes.find(item => item.slug === slug) || DATA.routes[0];
+    currentRoute = route;
+
+    routeTitle.textContent = route.title;
+    routeSubtitle.textContent = route.subtitle;
+    routeMeta.textContent = `${route.duration} · ${route.start_label} → ${route.end_label}`;
+    routeSummary.textContent = route.summary;
+    routeMapBtn.href = route.route_maps_url;
+    resetBtn.onclick = () => {
+      localStorage.removeItem(visitedKey(route.slug));
+      renderStops(route);
+    };
+
+    renderStops(route);
+    createRouteButtons();
+
+    const url = new URL(window.location.href);
+    url.searchParams.set("route", route.slug);
+    window.history.replaceState({}, "", url);
+  }
+
+  loadRoute(defaultSlug);
+
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => navigator.serviceWorker.register("sw.js"));
+  }
 })();

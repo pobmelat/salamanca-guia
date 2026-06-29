@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#1e2726"/>
+  <rect x="0" y="520" width="1200" height="280" fill="#2f3f3c"/>
+  <rect x="120" y="160" width="520" height="360" rx="18" fill="#435954"/>
+  <rect x="680" y="120" width="380" height="400" rx="18" fill="#506762"/>
+  <rect x="200" y="240" width="160" height="110" fill="#d8b16f"/>
+  <rect x="400" y="240" width="160" height="110" fill="#d8b16f"/>
+  <rect x="200" y="390" width="160" height="110" fill="#d8b16f"/>
+  <rect x="400" y="390" width="160" height="110" fill="#d8b16f"/>
+  <circle cx="930" cy="200" r="70" fill="#f0c978"/>
+  <text x="80" y="690" fill="#f4efe4" font-size="52" font-family="Georgia, serif">Hall88 · irteera lasaia</text>
+</svg>

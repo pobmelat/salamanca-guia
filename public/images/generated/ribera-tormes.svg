@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#1d2c2e"/>
+  <rect y="370" width="1200" height="430" fill="#3f6f73"/>
+  <path d="M0 520 C180 470 320 560 520 520 S850 460 1200 530" fill="none" stroke="#8cc9d4" stroke-width="18"/>
+  <path d="M0 610 C220 560 400 650 620 610 S900 550 1200 620" fill="none" stroke="#78b3bc" stroke-width="12"/>
+  <rect y="320" width="1200" height="80" fill="#78846a"/>
+  <circle cx="950" cy="170" r="70" fill="#f0ca76"/>
+  <text x="80" y="700" fill="#f4efe4" font-size="52" font-family="Georgia, serif">Tormes · ura eta harria</text>
+</svg>

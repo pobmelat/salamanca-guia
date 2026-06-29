@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#22303a"/>
+  <rect y="430" width="1200" height="370" fill="#486b7b"/>
+  <path d="M40 420 C170 320 300 320 430 420 S690 520 820 420 S1050 320 1160 420" fill="none" stroke="#d8c19a" stroke-width="34"/>
+  <path d="M60 460 C200 360 330 360 460 460 S700 560 830 460 S1040 360 1140 460" fill="none" stroke="#e8d9bf" stroke-width="10"/>
+  <circle cx="920" cy="180" r="72" fill="#efc56f"/>
+  <text x="80" y="700" fill="#f4efe4" font-size="52" font-family="Georgia, serif">Puente Romano · lehen silueta</text>
+</svg>

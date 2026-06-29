@@ -1,0 +1,98 @@
+slug: dia2_goiza
+city: Salamanca
+lang: eu
+title: Goizeko paseo lasaia Salamancan
+subtitle: "Egunsentiko argia, ibaia eta harrizko hiriaren lehen isiltasuna"
+duration: "01:00"
+summary: Hotelatik abiatu, Tormesera jaitsi eta alde zaharrera igo, turista gutxien dagoenean.
+start_label: Zenit Hall88 Studios Salamanca
+end_label: Zenit Hall88 Studios Salamanca
+google_maps:
+  origin:
+    lat: 40.9702112
+    lon: -5.6766756
+  destination:
+    lat: 40.9702112
+    lon: -5.6766756
+  waypoints:
+    - lat: 40.9622900
+      lon: -5.6714700
+    - lat: 40.9609000
+      lon: -5.6699000
+    - lat: 40.9602200
+      lon: -5.6691800
+    - lat: 40.9605500
+      lon: -5.6669000
+    - lat: 40.9611400
+      lon: -5.6670200
+stops:
+  - id: 1
+    time_rel: "00:00"
+    title: Zenit Hall88
+    short: Hotela
+    lat: 40.9702112
+    lon: -5.6766756
+    image: generated/hall88.svg
+    blurb: Irteera lasaia, lo dagoen hiria atzean utzi gabe.
+    photo_tip: Hemen ez dago argazki handirik; onena lehen argia gordetzea da.
+    hidden_detail: Eguneko erritmoa hasi aurreko minutuak dira, eta hori da ibilbide honen benetako luxua.
+  - id: 2
+    time_rel: "00:12"
+    title: Puente Romano
+    short: Zubia
+    lat: 40.9622900
+    lon: -5.6714700
+    image: generated/puente-romano.svg
+    blurb: Zubi zaharrean, hiria atzealde bihurtzen da eta paisaia nagusi.
+    photo_tip: Zubiaren erdian baino, zertxobait albo batera, katedralak eta ibai-lerroa batera hartzeko.
+    hidden_detail: "Gaur ikusten dena ez da erromatar obra osoa, baina ideia erromatarra bai: igarobide sendoa, uraren gainean."
+  - id: 3
+    time_rel: "00:22"
+    title: Tormes ibaiertza
+    short: Ibaia
+    lat: 40.9609000
+    lon: -5.6699000
+    image: generated/ribera-tormes.svg
+    blurb: Hemen Salamanca ez da monumentu multzo bat bakarrik; uraren ertzeko hiri bat ere bada.
+    photo_tip: Ura bare badago, bilatu islak; haizerik badago, landarediaren eta harrien arteko kontrastea.
+    hidden_detail: Egunsentiko argi zeharkakoak Villamayorreko harria eta ibaiaren hezetasuna tonu oso desberdinetan banatzen ditu.
+  - id: 4
+    time_rel: "00:32"
+    title: Casa Lis (kanpotik)
+    short: Casa Lis
+    lat: 40.9602200
+    lon: -5.6691800
+    image: generated/casa-lis.svg
+    blurb: Modernismo arina, harrizko hiri klasikoaren alboan.
+    photo_tip: Kristal eta burdin egitura albo batetik hartu, kurbadurak hobeto nabaritzeko.
+    hidden_detail: Casa Lisek erakusten du Salamanca ez dela erromanikoa, gotikoa edo platereskoa bakarrik; XX. mendearen hasierak ere hemen utzi zuen arrastoa.
+  - id: 5
+    time_rel: "00:40"
+    title: Calixto eta Melibearen Baratzea
+    short: Baratzea
+    lat: 40.9605500
+    lon: -5.6669000
+    image: generated/huerto-calixto.svg
+    blurb: Hemen hiria itxiago sentitzen da, baina ikuspegia zabaldu egiten da.
+    photo_tip: Baratze barrutik hartu katedralen bolumena, landaredia aurrealdean utzita.
+    hidden_detail: Landareen artean dagoen intimitateak La Celestinaren iruditeria elikatzen du, nahiz eta lorategia gaur egunekoa izan neurri handi batean.
+  - id: 6
+    time_rel: "00:50"
+    title: Patio Chico
+    short: Patio Chico
+    lat: 40.9611400
+    lon: -5.6670200
+    image: generated/patio-chico.svg
+    blurb: Hiriaren harrizko teatro txikietako bat da, eskala egokia duena.
+    photo_tip: Behetik pixka bat gora, dorreen eta hormen geruzak pilatzeko.
+    hidden_detail: Goiz-goizetan nabarmenagoa da hemen bolumenen arteko elkarrizketa; jendeak huts egiten ez duelako, baizik eta isiltasunak irakurketa errazten duelako.
+  - id: 7
+    time_rel: "01:00"
+    title: Zenit Hall88-era itzulera
+    short: Itzulera
+    lat: 40.9702112
+    lon: -5.6766756
+    image: generated/hall88.svg
+    blurb: Ibilbidea biribiltzeko, berriz ere eguneroko Salamancara itzuli.
+    photo_tip: Ez da azken argazkirik behar; hobe buruan eramatea argiaren sekuentzia.
+    hidden_detail: Ibilaldi motz honek erakusten du hiria ez dela beti distantziaz neurtzen; erritmoz eta begiratzeko moduz ere bai.

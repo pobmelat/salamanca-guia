@@ -1,0 +1,98 @@
+slug: dia1
+city: Salamanca
+lang: eu
+title: "Lehen arratsaldea: hotelatik Fonsecaraino"
+subtitle: Kafea, harri urreztatua eta lehen orientazioa presarik gabe
+duration: "01:45"
+summary: Kongresuko harrerara iritsi aurretik, hiria lasai irakurtzen hasteko ibilbidea.
+start_label: Zenit Hall88 Studios Salamanca
+end_label: Colegio Arzobispo Fonseca
+google_maps:
+  origin:
+    lat: 40.9702112
+    lon: -5.6766756
+  destination:
+    lat: 40.9652569
+    lon: -5.6701508
+  waypoints:
+    - lat: 40.9653616
+      lon: -5.6636406
+    - lat: 40.9650282
+      lon: -5.6640558
+    - lat: 40.9629585
+      lon: -5.6656516
+    - lat: 40.9614420
+      lon: -5.6672180
+    - lat: 40.96445
+      lon: -5.66859
+stops:
+  - id: 1
+    time_rel: "00:00"
+    title: Zenit Hall88
+    short: Irteera
+    lat: 40.9702112
+    lon: -5.6766756
+    image: generated/hall88.svg
+    blurb: Hiri garaikidetik alde zaharrerako trantsizio lasaia.
+    photo_tip: Ez gastatu lehen argazkia hemen; gorde lehen benetako koadroa erdigunerako.
+    hidden_detail: Hall88 ingurua muga atsegina da Salamanca egunerokoaren eta monumentalenaren artean.
+  - id: 2
+    time_rel: "00:24"
+    title: Café Novelty
+    short: Kafea
+    lat: 40.9653616
+    lon: -5.6636406
+    image: cafe-novelty.jpg
+    blurb: Lehen atsedenaldiak paseoari erritmo egokia ematen dio.
+    photo_tip: Arkupeen azpitik, diagonalean, plazaren lehen markoa hartu.
+    hidden_detail: Kafetegiaren memoria literarioak plazaren ikuspegia baino gehiago ematen du.
+  - id: 3
+    time_rel: "00:45"
+    title: Plaza Mayor
+    short: Plaza
+    lat: 40.9650282
+    lon: -5.6640558
+    image: plaza-mayor.jpg
+    blurb: Ez helmuga gisa, sarrera handi gisa irakurtzeko plaza.
+    photo_tip: Erdialdean gelditu eta udaletxerantz zuzendu marko zabala egiteko.
+    hidden_detail: Laukia oso orekatua da, baina ez da guztiz simetrikoa.
+  - id: 4
+    time_rel: "00:57"
+    title: Casa de las Conchas
+    short: Maskorrak
+    lat: 40.9629585
+    lon: -5.6656516
+    image: casa-conchas.jpg
+    blurb: Fatxada bakarra eta Clerecíarekin duen elkarrizketa bisuala.
+    photo_tip: Clerecíaren aldetik, diagonalean, maskorren erritmoa hobeto ikusten da.
+    hidden_detail: Fatxada osoa ez da apaindura hutsa; botere sinbolikoaren erakusketa ere bada.
+  - id: 5
+    time_rel: "01:10"
+    title: Unibertsitatea eta Patio de Escuelas
+    short: Unibertsitatea
+    lat: 40.9614420
+    lon: -5.6672180
+    image: universidad.jpg
+    blurb: Ikur handiak lehen begiratuan baino lasaiago irakurtzeko tokia.
+    photo_tip: Fray Luis lehen planoan utzi eta fatxada pixka bat alboratuta hartu.
+    hidden_detail: Jende gehiena igelaren bila hasten da eta eskulturaren kontakizun osoa galtzen du.
+  - id: 6
+    time_rel: "01:28"
+    title: Palacio de Monterrey
+    short: Monterrey
+    lat: 40.96445
+    lon: -5.66859
+    image: monterrey.jpg
+    blurb: Geldialdi labur baina oso fotogenikoa.
+    photo_tip: Hobe diagonalean, dorreak eta gailurreria batera sartzeko.
+    hidden_detail: Eraikin amaitu gabe batek estilo oso baten iruditeria markatu zuen.
+  - id: 7
+    time_rel: "01:40"
+    title: Colegio Arzobispo Fonseca
+    short: Fonseca
+    lat: 40.9652569
+    lon: -5.6701508
+    image: fonseca.jpg
+    blurb: Harrerara iritsi aurretik, atariaren lasaitasuna aprobetxatzeko azken pausa.
+    photo_tip: Kalearen beste aldetik, fatxada osorik eta presarik gabe.
+    hidden_detail: Gaur egungo erabilera kulturala eta unibertsitarioa jatorri errenazentistarekin lotuta jarraitzen du.

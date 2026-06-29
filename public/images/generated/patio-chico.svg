@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#202224"/>
+  <rect y="520" width="1200" height="280" fill="#3a3430"/>
+  <rect x="110" y="220" width="360" height="320" fill="#b99261"/>
+  <rect x="490" y="160" width="260" height="380" fill="#c7a16c"/>
+  <rect x="800" y="100" width="180" height="440" fill="#d1b07f"/>
+  <polygon points="870,30 910,30 910,100 870,100" fill="#d1b07f"/>
+  <circle cx="1020" cy="160" r="72" fill="#efc56f"/>
+  <text x="80" y="700" fill="#f4efe4" font-size="52" font-family="Georgia, serif">Patio Chico · harrizko teatroa</text>
+</svg>

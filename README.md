@@ -1,80 +1,111 @@
-# Salamanca · guía interactiva
+# Salamanca Guide
 
-Versión 1: paseo de llegada desde Zenit Hall88 hasta la recepción del Colegio Arzobispo Fonseca.
+Salamancako gida kulturala, oinez erabiltzeko pentsatua.
 
-## Plan del Día 1
+Filosofia sinplea da:
 
-- **Horario:** 17:00–18:45.
-- **Distancia:** 3,45 km; unos 45–50 min andando.
-- **Café:** Café Novelty, llegada prevista 17:24 y pausa de unos 20 min.
-- **Final:** Colegio Arzobispo Fonseca, C/ Fonseca, 4, entre 18:40 y 18:45.
-- **Sin regreso al hotel:** la ruta termina al comenzar la recepción.
+- Google Maps-ek oinak gidatzen ditu.
+- PWAk begirada gidatzen du.
 
-Secuencia: Hall88 → Café Novelty → Plaza Mayor → Casa de las Conchas → Universidad/Patio de Escuelas → Palacio de Monterrey → Fonseca.
+Horrek esan nahi du web aplikazioak ez duela nabigazioa egiten. Ez dago GPS jarraipenik, ez GPXrik, ez KMLrik, ezta audio automatiko sortzerik ere. Aplikazioak ibilbide bakoitzeko edukia eskaintzen du: testuak, irudiak, bideoak baldin badaude, eta Google Maps-era salto egiteko estekak.
 
-Puente Romano, ribera del Tormes, Huerto de Calixto y Melibea, Casa Lis, Patio Chico y catedrales se reservan deliberadamente para otro día.
-
-## Contenido
+## Egitura
 
 ```text
 Salamanca/
-├── routes/   dia1.gpx, dia1.kml y fuente GeoJSON
-├── audio/    un guion conversacional por parada
-├── pdf/      guia_dia1.pdf
-├── maps/     mapa.png
-├── images/   fotografías libres
-├── app/      PWA offline con GPS y voz
-└── scripts/  generador reproducible
+├── app/                  PWA sinplifikatua
+├── content/
+│   └── eu/
+│       ├── dia1/
+│       └── dia2_goiza/
+├── data/
+│   └── routes/
+│       ├── dia1.yaml
+│       └── dia2_goiza.yaml
+├── public/
+│   ├── images/
+│   └── media/
+│       ├── dia1/
+│       └── dia2_goiza/
+└── scripts/
+    └── build.py
 ```
 
-## Usar la PWA
+## Datu-iturri bakarra
 
-La app no necesita instalación: basta abrir `app/index.html` desde un servidor web. Para probarla en el ordenador:
+Ibilbide bakoitzak YAML fitxategi bakarra du `data/routes/` barruan. Han daude:
+
+- metadatu nagusiak;
+- geldialdien ordena;
+- denbora erlatiboak;
+- koordenatuak;
+- Google Maps-eko jatorria, helmuga eta waypointak;
+- irudiaren izena;
+- pantailan agertuko diren laburpenak eta oharrak.
+
+Gidoi luzea, berriz, `content/eu/<ibilbidea>/paradaXX.md` fitxategietan dago.
+
+## Bideoak nola gehitu
+
+PWAk bideoa erakutsiko du fitxategia existitzen bada:
+
+```text
+public/media/dia2_goiza/parada01.mp4
+public/media/dia2_goiza/parada02.mp4
+...
+```
+
+Fitxategia ez badago, txartelak testua bakarrik erakutsiko du.
+
+## Eraikuntza
+
+`build.py` scriptak YAML eta Markdown edukietatik `app/data.js` eta `app/sw.js` eguneratzen ditu:
+
+```bash
+cd Salamanca
+python3 scripts/build.py
+```
+
+## Tokian probatzea
 
 ```bash
 cd Salamanca
 python3 -m http.server 8080
 ```
 
-Después abre `http://localhost:8080/app/`. Para usarla en el móvil con GPS debe publicarse bajo **HTTPS** (por ejemplo, GitHub Pages, Netlify o un servidor propio). Los navegadores bloquean normalmente la geolocalización en una dirección HTTP de red local.
+Ondoren ireki:
 
-En la primera visita:
+- [http://localhost:8080/app/](http://localhost:8080/app/)
 
-1. abre la app con conexión;
-2. pulsa **Activar GPS y audioguía**;
-3. concede ubicación;
-4. deja que termine de cargar las imágenes.
+## Offline
 
-El service worker guarda la interfaz, el trazado, las fotografías y los textos. La voz es la síntesis de voz del propio dispositivo. Tras el primer toque, cada parada se reproduce al entrar en un radio aproximado de 45 m; también hay un botón manual. iOS/Android pueden imponer restricciones adicionales al audio en segundo plano.
+Konexiorik gabe erabilgarri geratzen dira:
 
-## Regenerar los artefactos
+- interfazea;
+- ibilbideen testuak;
+- irudiak;
+- lehendik cachean gelditu diren bideoak.
 
-El archivo fuente del trazado es `routes/dia1.geojson`, calculado con perfil peatonal/trekking de BRouter. El generador crea GPX, KML, mapa, iconos, datos de la app y PDF:
+Google Maps, berriz, kanpoko zerbitzua da eta sare-konexioa behar du.
 
-```bash
-python3 scripts/build.py
-```
+## Une honetan dauden ibilbideak
 
-## Comprobación importante
+- `dia1`: lehen arratsaldeko paseo lasaia, hotelatik Fonsecaraino.
+- `dia2_goiza`: ordubeteko goizeko paseo lasaia, hotelatik abiatu eta hotelera itzultzen dena.
 
-La ruta presupone que la recepción es en el **Colegio Arzobispo Fonseca, C/ Fonseca, 4**. Conviene verificar el lugar exacto en el programa del congreso antes de salir.
+## Berrerabilgarritasuna
 
-## Fuentes prácticas
+Egitura hau erraz eramateko diseinatuta dago:
 
-- Hotel y dirección: [Zenit Hall88](https://hall88.zenithoteles.com/es/).
-- Horario e historia del café: [Café Novelty](https://www.cafenovelty.com/).
-- Dirección y uso actual de Fonseca: [Universidad de Salamanca](https://colegiofonseca.usal.es/).
-- Datos del trazado: © colaboradores de [OpenStreetMap](https://www.openstreetmap.org/copyright), ruta calculada con [BRouter](https://brouter.de/).
+- `Budapest/`
+- `Biarritz/`
+- `Donostia/`
+- `Lyon/`
+- `Praga/`
 
-## Fotografías y licencias
+Hiria aldatzeko, nahikoa da:
 
-- `cafe-novelty.jpg`: Pravdaverita, Wikimedia Commons, CC BY 3.0.
-- `plaza-mayor.jpg`: Anual, Wikimedia Commons, CC BY-SA 4.0.
-- `casa-conchas.jpg`: Coralma*, Wikimedia Commons, CC0.
-- `universidad.jpg`, `monterrey.jpg`, `fonseca.jpg`: Zarateman, Wikimedia Commons, CC0.
-
-Las imágenes se conservan como archivos separados para facilitar su sustitución o ampliación en futuros días.
-
-## Ampliación
-
-La estructura admite `dia2`, `dia3` y rutas gastronómica, universitaria, nocturna o científica. Para cada nueva ruta se recomienda mantener el mismo patrón: GeoJSON fuente → GPX/KML → guiones Markdown → datos PWA → PDF.
+1. YAML berriak sortzea `data/routes/` barruan.
+2. Gidoiak `content/eu/` barruan jartzea.
+3. Irudiak eta bideoak `public/` barruan gehitzea.
+4. `python3 scripts/build.py` berriz exekutatzea.
