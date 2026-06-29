@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#334f49">
+  <meta name="description" content="Paseo guiado de Hall88 a Fonseca, Salamanca">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon-192.png">
+  <link rel="stylesheet" href="style.css">
+  <title>Salamanca · Día 1</title>
+</head>
+<body>
+  <header>
+    <p class="eyebrow">SALAMANCA · DÍA 1</p>
+    <h1>Del hotel a Fonseca</h1>
+    <p class="summary">17:00–18:45 <span>·</span> 3,45 km <span>·</span> café a las 17:24</p>
+  </header>
+  <main>
+    <section class="statusbar" aria-live="polite">
+      <div><span class="dot" id="gps-dot"></span><span id="gps-status">GPS sin activar</span></div>
+      <strong id="next-status">Salida: Hall88</strong>
+    </section>
+    <section class="controls">
+      <button class="primary" id="start-btn">Activar GPS y audioguía</button>
+      <button class="secondary" id="center-btn" disabled>Centrar mi posición</button>
+    </section>
+    <p class="hint" id="hint">Da este primer toque antes de salir. El navegador lo necesita para permitir ubicación y voz.</p>
+    <section class="map-card" aria-label="Mapa esquemático de la ruta">
+      <svg id="route-map" viewBox="0 0 1000 700" role="img" aria-labelledby="map-title">
+        <title id="map-title">Ruta peatonal de Hall88 a Fonseca</title>
+        <rect width="1000" height="700" fill="#f4efe4"/>
+        <g id="route-layer"></g><g id="stop-layer"></g><g id="user-layer"></g>
+      </svg>
+      <p class="map-note">Mapa esquemático sin calles. Sigue la señalización real y los cruces peatonales.</p>
+    </section>
+    <section class="progress-wrap"><div id="progress"></div></section>
+    <section id="stops" class="stops" aria-label="Paradas"></section>
+    <section class="offline">
+      <h2>Antes de salir</h2>
+      <p>Abre esta página una vez con conexión. Después, la ruta, las fotos y la voz del dispositivo funcionan sin red. La geolocalización puede seguir funcionando offline, según el móvil.</p>
+      <p><strong>Confirma en el programa del congreso</strong> que la recepción es en Colegio Arzobispo Fonseca, C/ Fonseca, 4.</p>
+    </section>
+  </main>
+  <footer>Guía V1 · ruta calculada con BRouter/OpenStreetMap · fotografías libres acreditadas en el README</footer>
+  <script src="data.js"></script><script src="app.js"></script>
+</body>
+</html>
