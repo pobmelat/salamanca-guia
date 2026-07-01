@@ -126,6 +126,28 @@ main{padding-bottom:28px}
 .stop-script li{color:#d7ddd6;line-height:1.58;font-size:.95rem}
 .stop-script ul{padding-left:20px;margin:8px 0}
 
+.focus-blocks{
+  display:grid;
+  gap:10px;
+  margin-top:14px;
+}
+.focus-card{
+  background:#151d1b;
+  border:1px solid #2a3533;
+  border-radius:16px;
+  padding:12px 13px;
+}
+.focus-card h3{
+  margin:0 0 6px;
+  font:600 1rem/1.2 Georgia,serif;
+  color:#f0dfc7;
+}
+.focus-card p{
+  margin:0;
+  color:#d7ddd6;
+  line-height:1.5;
+}
+
 .stop-notes{
   margin:14px 0 0;
   display:grid;

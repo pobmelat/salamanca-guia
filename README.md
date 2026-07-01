@@ -17,16 +17,19 @@ Salamanca/
 ├── content/
 │   └── eu/
 │       ├── dia1/
-│       └── dia2_goiza/
+│       ├── dia2_goiza/
+│       └── dia3_goiza/
 ├── data/
 │   └── routes/
 │       ├── dia1.yaml
-│       └── dia2_goiza.yaml
+│       ├── dia2_goiza.yaml
+│       └── dia3_goiza.yaml
 ├── public/
 │   ├── images/
 │   └── media/
 │       ├── dia1/
-│       └── dia2_goiza/
+│       ├── dia2_goiza/
+│       └── dia3_goiza/
 └── scripts/
     └── build.py
 ```
@@ -92,6 +95,7 @@ Google Maps, berriz, kanpoko zerbitzua da eta sare-konexioa behar du.
 
 - `dia1`: lehen arratsaldeko paseo lasaia, hotelatik Fonsecaraino.
 - `dia2_goiza`: ordubeteko goizeko paseo lasaia, hotelatik abiatu eta hotelera itzultzen dena.
+- `dia3_goiza`: goiz luzeko ibilbidea, katedrala hirian zehar nola aldatzen den ulertzeko, gosariarekin eta amaiera Fonsecan.
 
 ## Berrerabilgarritasuna
 

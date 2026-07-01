@@ -120,6 +120,16 @@
         <div class="stop-script" hidden>
           ${stop.script_html}
         </div>
+        <div class="focus-blocks">
+          <section class="focus-card">
+            <h3>Zer ari zara ikusten?</h3>
+            <p>${stop.seeing || ""}</p>
+          </section>
+          <section class="focus-card">
+            <h3>Begiratu orain...</h3>
+            <p>${stop.look_now || ""}</p>
+          </section>
+        </div>
         <dl class="stop-notes">
           <div>
             <dt>Argazki-aholkua</dt>

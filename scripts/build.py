@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import html
 import json
+from urllib.parse import quote
 from pathlib import Path
 
 import yaml
@@ -75,10 +76,16 @@ def markdown_to_html(text: str) -> str:
     return "\n".join(blocks)
 
 
+def maps_point_value(point: dict) -> str:
+    if point.get("query"):
+        return quote(point["query"])
+    return f"{point['lat']},{point['lon']}"
+
+
 def stop_maps_url(stop: dict) -> str:
     return (
         "https://www.google.com/maps/dir/?api=1"
-        f"&destination={stop['lat']},{stop['lon']}"
+        f"&destination={maps_point_value(stop)}"
         "&travelmode=walking"
     )
 
@@ -89,12 +96,12 @@ def route_maps_url(route: dict) -> str:
     waypoints = route["google_maps"].get("waypoints", [])
     url = (
         "https://www.google.com/maps/dir/?api=1"
-        f"&origin={origin['lat']},{origin['lon']}"
-        f"&destination={destination['lat']},{destination['lon']}"
+        f"&origin={maps_point_value(origin)}"
+        f"&destination={maps_point_value(destination)}"
         "&travelmode=walking"
     )
     if waypoints:
-        joined = "|".join(f"{point['lat']},{point['lon']}" for point in waypoints)
+        joined = "|".join(maps_point_value(point) for point in waypoints)
         url += f"&waypoints={joined}"
     return url
 
@@ -128,9 +135,11 @@ def build_route(path: Path) -> tuple[dict, list[str]]:
                 "time_rel": stop["time_rel"],
                 "title": stop["title"],
                 "short": stop["short"],
-                "lat": float(stop["lat"]),
-                "lon": float(stop["lon"]),
+                "lat": float(stop["lat"]) if stop.get("lat") is not None else None,
+                "lon": float(stop["lon"]) if stop.get("lon") is not None else None,
                 "blurb": stop["blurb"],
+                "seeing": stop.get("seeing"),
+                "look_now": stop.get("look_now"),
                 "photo_tip": stop["photo_tip"],
                 "hidden_detail": stop["hidden_detail"],
                 "image": image_path,

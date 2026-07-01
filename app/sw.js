@@ -33,7 +33,9 @@ const ASSETS = [
   "../public/media/dia2_goiza/parada05.mp4",
   "../public/images/generated/patio-chico.svg",
   "../public/media/dia2_goiza/parada06.mp4",
-  "../public/media/dia2_goiza/parada07.mp4"
+  "../public/media/dia2_goiza/parada07.mp4",
+  "../public/images/generated/plaza-anaya.svg",
+  "../public/images/generated/dale-cafe.svg"
 ];
 
 self.addEventListener("install", event => {
