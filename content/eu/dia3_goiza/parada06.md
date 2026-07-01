@@ -1,25 +1,25 @@
-# 06 · Plaza de Anaya
+# 06 · Palacio Episcopal eta katedralaren alboa
 
 ## Sarrera
 
-Orain bai, katedralaren aurrealdea aurrez aurre agertzen da. Baina interesgarriena ez da fatxada bera bakarrik; aurretik duen hutsuneak nola prestatzen duen baizik.
+Gosaldu ondoren, katedrala beste modu batean irakurtzen da. Orain ez dago aurrealde handi gisa, baizik eta hiriaren barruko horma, ate eta bolumen sistema gisa.
 
 ## Zer begiratu
 
-Jarri plazaren erdiko lerroaren antzeko puntu batean eta begiratu nola irekitzen den espazioa zure aurrean. Hutsune honek aurrealdeari arnasa ematen dio, eta horregatik sentitzen da hain handia.
+Begiratu sarreraren, hormen eta alboaren arteko loturari. Orain ez zaude katedralaren aurrean; haren kontra ia zaude. Hori da puntu honen interesa.
 
 ## Historia
 
-Katedrala ez dago bakarrik. Plaza batek, jauregi batek eta inguruko ertzek osatzen dute. Horregatik da leku hau hain garrantzitsua: aurrealdea espazio publiko baten bidez eraikitzen da.
+Katedral handi batek aurrealde ikusgarria izateaz gain, hiriaren barruan horma-sistema handi bat ere bada. Albo hauetan ikusten da hobekien haren benetako tamaina eta hirian duen pisua.
 
 ## Bitxikeria
 
-Batzuetan plaza batek azaltzen du eraikin bat bera baino gehiago. Hemen horixe gertatzen da: katedralaren tamaina ez dago hormetan bakarrik, aurrean duen hutsunean ere badago.
+Monumentu handi baten neurri errealak askotan ez dira aurrealdean ulertzen, albo eta sarbide estuagoetan baizik.
 
 ## Non egin argazkia
 
-Ez hartu fatxada soilik; sartu plazaren zati bat, bestela galdu egingo da aurrealdearen eskala.
+Ez saiatu dena plano bakarrean sartzen. Hobe da ate, horma edo xehetasun handiren bat aukeratzea eta eskala horretatik lan egitea.
 
 ## Nola jarraitu
 
-Orain gosariaren geldialdia egingo dugu. Une egokian dator: jada ulertu duzu katedrala hainbat eszenatokitan agertzen dela, eta orain arnasa har dezakezu.
+Handik gutxira lorategira joango gara. Hemen katedrala horma zen; hurrengo puntuan berriro paisaia bihurtuko da.

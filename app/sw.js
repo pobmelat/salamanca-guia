@@ -34,8 +34,17 @@ const ASSETS = [
   "../public/images/generated/patio-chico.svg",
   "../public/media/dia2_goiza/parada06.mp4",
   "../public/media/dia2_goiza/parada07.mp4",
+  "../public/media/dia3_goiza/parada01.mp4",
+  "../public/media/dia3_goiza/parada02.mp4",
   "../public/images/generated/plaza-anaya.svg",
-  "../public/images/generated/dale-cafe.svg"
+  "../public/media/dia3_goiza/parada03.mp4",
+  "../public/media/dia3_goiza/parada04.mp4",
+  "../public/images/generated/dale-cafe.svg",
+  "../public/media/dia3_goiza/parada05.mp4",
+  "../public/media/dia3_goiza/parada06.mp4",
+  "../public/media/dia3_goiza/parada07.mp4",
+  "../public/media/dia3_goiza/parada08.mp4",
+  "../public/media/dia3_goiza/parada09.mp4"
 ];
 
 self.addEventListener("install", event => {

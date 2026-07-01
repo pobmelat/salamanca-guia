@@ -18,8 +18,8 @@ Askotan pentsatzen dugu monumentua dela hiriaren hasiera. Baina ia beti lehenago
 
 ## Non egin argazkia
 
-Ez nuke hemen gaurko lehen argazki handia egingo. Hobe da lehen irudi indartsua hiri monumentala irekitzen hasten denerako gordetzea.
+Ez egin oraindik eguneko argazki nagusia. Hobe da lehen benetako irudi indartsua katedrala hiriaren barruan irekitzen hasten denerako gordetzea.
 
 ## Nola jarraitu
 
-Joan lasai Monterrey aldera. Gaurko lehen zatian hiriaren goiko profila eta haren harrizko hierarkia irakurtzen hasiko gara.
+Joan lasai Patio de Escuelaserantz. Gaurko lehen zatia katedralaren eta unibertsitatearen arteko auzotasunetik hasiko da.

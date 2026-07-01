@@ -1,25 +1,25 @@
-# 09 · Calixto eta Melibearen Baratzea
+# 09 · Colegio Arzobispo Fonseca
 
 ## Sarrera
 
-Lorategi honek katedrala berriro aldatu egiten du. Orain ez dago aurrealde handi gisa, ezta juntura estu gisa ere. Paisaia eta hiri-ehun gisa agertzen da.
+Eta hemen ixten da zirkulua. Katedrala ulertzeko hasi dugun paseoa hura posible egin zuen hiri-sarearen beste pieza batean amaitzen da: ikasketa, erakundea eta eguneroko erabilera.
 
 ## Zer begiratu
 
-Begiratu hostoen gainetik ageri diren bolumenei. Hemen irudia zatika dator, eta horregatik ulertzen da hobeto nola txertatzen den katedrala hirian.
+Fonsecak ez du katedralaren dramatismoa, baina badu beste indar bat: neurria, isiltasuna eta iraupena. Hemen ulertzen da Salamanca ez dela eraikin ospetsuen segida bat bakarrik.
 
 ## Historia
 
-Leku hau literaturarekin lotzen da izenagatik, baina gaur guretzat interesgarriena ikuspegia dosifikatzeko modua da. Hemen monumentua ez da objektu bakarra; hiriaren zati bat da.
+XVI. mendearen hasieran sortutako ikastetxe honek erakusten du unibertsitate-hiriaren eta eliza-hiriaren arteko lotura ez dela ideia abstraktua. Harrian eta erabileran dago.
 
 ## Bitxikeria
 
-Lorategiak berak baino gehiago, ikuspegia dosifikatzeko moduak egiten du leku hau berezi.
+Ibilbide on baten seinaleetako bat da amaieran hiri bera desberdin ikusten baduzu. Ez du zertan monumentu gehiago erakutsi; nahikoa da loturak ikasi izana.
 
 ## Non egin argazkia
 
-Erabili landaredia aurrealdean eta hartu katedrala haren gainetik agertzen denean.
+Kalearen beste aldetik, presarik gabe, fatxada osoa eta sarrerako lasaitasuna hartzeko.
 
 ## Nola jarraitu
 
-Azken aurreko geldialdia Casa Lis eta harresiaren ertza izango da. Han ikusiko dugu nola neurtzen diren elkar hiri zaharra eta modernitate arina.
+Hemendik kongresura joan zaitezke zuzenean. Gaurko ibilbideak bere lana egina du: Salamanca irudi solteetan baino, loturen bidez irakurtzen laguntzea.

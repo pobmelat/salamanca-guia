@@ -1,25 +1,25 @@
-# 02 · Palacio de Monterrey
+# 02 · Patio de Escuelas
 
 ## Sarrera
 
-Monterreyk ez du katedrala ordezkatzen, baina bai prestatu. Hemen ulertzen hasten da Salamancan boterea sarri gorantz eraiki dela, zeruaren kontra irakurtzeko moduan.
+Hemen Salamancaren oreka handietako bat ageri da: katedrala eta unibertsitatea. Oso gertu daude, elkarren itzalean baina elkarren kontra ez.
 
 ## Zer begiratu
 
-Begiratu gailurreriari, dorreei eta tximiniei. Katedrala oraindik ez dago aurrean, baina zure begirada jada goiko lerro horietan entrenatzen ari da. Horrek gero katedralaren bolumenak hobeto irakurtzen lagunduko dizu.
+Begiratu patioaren espazioari lehenik, eta gero fatxadari. Katedrala ez dago osorik aurrean, baina haren presentzia nabaritzen da inguruko harrizko dentsitatean eta espazioaren tentsioan.
 
 ## Historia
 
-Monterrey XVI. mendeko proiektu handiago baten zati amaitua da. Hori bera da haren indarra: amaitu gabe egon arren, hiriaren iruditerian leku handia lortu zuen.
+Salamancako unibertsitatea eta katedral-multzoa ez dira bi mundu paralelo. Mendeetan zehar elkarri lotuta bizi izan dira, eta hiriaren ospea bi ardatz horien inguruan eraiki da neurri handi batean.
 
 ## Bitxikeria
 
-Batzuetan amaitu gabeko eraikinek amaitutakoek baino indar handiagoa dute. Irudimenari lekua uzten diotelako.
+Jende asko igelaren bila dator. Ondo dago. Baina hemen are interesgarriagoa da galdetzea zergatik dauden horren gertu bi botere handiak: eliza eta ikasketa.
 
 ## Non egin argazkia
 
-Urrundu pixka bat eta hartu goiko erritmoa. Ez gelditu sarreran bertan.
+Fray Luis edo patioaren zati bat sartuta, fatxadari arnasa emanez, plano estuegia saihestuz.
 
 ## Nola jarraitu
 
-Hemendik Plaza Mayorrera hurbilduko gara. Katedrala ikusi aurretik, haren hiria nolakoa den ulertzea komeni da.
+Plaza de Anayara hurbilduko gara orain. Han katedralaren aurrealde handia espazio zabal batek nola prestatzen duen ikusiko dugu.

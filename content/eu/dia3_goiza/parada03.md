@@ -1,25 +1,25 @@
-# 03 · Plaza Mayor
+# 03 · Plaza de Anaya
 
 ## Sarrera
 
-Plaza Mayorrek ez dizu katedrala erakusten, baina bai hura posible egiten duen hiria. Espazio publikoa, botere zibila, eguneroko erritmoa eta hiriaren autokonfiantza hemen biltzen dira.
+Orain bai, katedralaren aurrealdea aurrez aurre agertzen da. Baina interesgarriena ez da fatxada bera bakarrik; aurrean duen hutsuneak nola prestatzen duen baizik.
 
 ## Zer begiratu
 
-Jarri gutxi gorabehera erdian eta egin bira motel bat. Espazioa nola ixten den sumatuko duzu, baina baita nola uzten dizun ateratzen ere. Plaza honek barrura sartu aurretik hiria neurtzen dizu.
+Jarri plazaren erdiko lerroaren antzeko puntu batean eta begiratu nola irekitzen den espazioa zure aurrean. Hutsune honek aurrealdeari arnasa ematen dio, eta horregatik sentitzen da hain handia.
 
 ## Historia
 
-XVIII. mendeko plaza barroko hau ez da atseden-leku hutsa. Hiriaren erdiko gela handia da. Horregatik interesatzen zaigu gaur ere: katedrala ez da bakarrik ulertzen, hiri antolatu baten barruan ulertzen da.
+Katedrala ez dago bakarrik. Plaza batek, jauregi batek eta inguruko ertzek osatzen dute. Horregatik da leku hau hain garrantzitsua: aurrealdea espazio publiko baten bidez eraikitzen da.
 
 ## Bitxikeria
 
-Batzuetan monumentu handien aurreko prestakuntza haiek baino urrunago hasten da. Plaza Mayor horietako prestakuntza handietako bat da.
+Monumentu handi baten tamaina ez dago hormetan bakarrik. Aurrean duen hutsunean ere badago.
 
 ## Non egin argazkia
 
-Erdialdetik Udaletxea edo arku bat marko gisa erabilita, espazioaren eskala erakusten duen argazkia egin.
+Ez hartu fatxada soilik; sartu plazaren zati bat, bestela galdu egingo da aurrealdearen eskala.
 
 ## Nola jarraitu
 
-Orain Casa de las Conchas aldera joango gara. Hiriaren hizkuntza zibil honetatik nobleziaren eta sinboloaren hizkuntzara pasatuko gara.
+Patio Chicora joango gara orain. Hango begiradak ez du aurrealdea emango, baizik eta hazkundearen arrastoa.

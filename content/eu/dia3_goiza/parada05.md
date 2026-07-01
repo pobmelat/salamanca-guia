@@ -1,25 +1,25 @@
-# 05 · Patio de Escuelas
+# 05 · Dale Café
 
 ## Sarrera
 
-Hemen Salamancaren oreka handietako bat ageri da: katedrala eta unibertsitatea. Oso gertu daude, elkarren itzalean baina elkarren kontra ez.
+Gosaria ez da parentesi hutsa. Orain arte katedrala unibertsitatearen ondoan, aurrealdean eta junturan irakurri dugu. Hemen, Dale Café-n, irudi horiek pausatu eta eguneroko Salamancarekin lotzen dira.
 
 ## Zer begiratu
 
-Begiratu patioaren espazioari lehenik, eta gero fatxadari. Katedrala ez dago osorik aurrean, baina haren presentzia nabaritzen da espazioaren tentsioan eta inguruko harrizko dentsitatean.
+Begiratu barruko mugimenduari, katiluen erritmoari, jendearen sarrera-irteerei eta kalearen esnatzeari. Monumentuz beteriko hiria berriro eguneroko hiri bihurtzen da, eta hori ezinbestekoa da benetan ulertzeko.
 
 ## Historia
 
-Salamancako unibertsitatea eta katedral-multzoa ez dira bi mundu paralelo. Mendeetan zehar elkarri lotuta bizi izan dira, eta hiriaren ospea bi ardatz horien inguruan eraiki da neurri handi batean.
+Geldialdi honen balioa ez dago bakarrik kafean. Zuk probatuta ondo funtzionatzen duen leku batean dago. Horrek gidari baten logikan pisu handia du: errealitateak teoria zuzentzen du.
 
 ## Bitxikeria
 
-Jende asko igelaren bila dator. Ondo dago. Baina hemen are interesgarriagoa da galdetzea zergatik dauden horren gertu bi botere handiak: eliza eta ikasketa.
+Batzuetan tokirik onena ez da famatuena, baizik eta ordutegian, erritmoan eta benetako esperientzian ondoen txertatzen dena.
 
 ## Non egin argazkia
 
-Fray Luis edo patioaren zati bat sartuta, fatxadari arnasa emanez, plano estuegia saihestuz.
+Barruan, giroa eta katilua; kanpoan, sarrera eta kalearen lehen mugimendua.
 
 ## Nola jarraitu
 
-Plaza de Anayara hurbilduko gara orain. Han katedralaren aurrealde handia espazio zabal batek nola prestatzen duen ikusiko dugu.
+Gosaldu ondoren, katedralaren albo trinkoenera joango gara. Orain aurrealde handiaren ordez haren horma eta hurbiltasuna irakurriko ditugu.

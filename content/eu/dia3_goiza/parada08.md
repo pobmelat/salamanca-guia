@@ -1,25 +1,25 @@
-# 08 · Patio Chico
+# 08 · Casa Lis eta harresiaren ertza
 
 ## Sarrera
 
-Gosaldu ondoren hemen itzultzeak badu zentzua. Orain ez zaude presaka, eta katedral zaharra eta berria lotzen dituen juntura askoz argiago irakurtzen da.
+Amaierarako, modernitateak eta hiri zaharrak elkar nola neurtzen duten berriz agertzen da. Horregatik da puntu hau hain baliotsua paseoaren bukaeran.
 
 ## Zer begiratu
 
-Ez bilatu zatirik politena. Begiratu loturari. Nola pilatzen diren hormak, nola elkartzen diren bolumenak, eta nola hazten den eraikin bat aurrekoa ezabatu gabe.
+Begiratu lehenik beirari, egiturari eta arintasunari. Gero altxa begirada atzeko logika harrizkora. Bien arteko tentsioak gaurko paseo osoa laburbiltzen du.
 
 ## Historia
 
-Salamancako katedral berria ez zen zaharra botatzeko egin. Haren ondoan, hura zutik mantenduz, handitu zen. Erabaki horrek asko esaten du hiriari buruz.
+Casa Lis XX. mendearen hasierako modernismoaren arrastoa da Salamancan. Harresiaren ertzak, berriz, hiri zaharraren logika itxiagoa gogorarazten du. Metro gutxitan bi garai eta bi modu.
 
 ## Bitxikeria
 
-Eraikuntzaren logika hau ia geologikoa da: geruza berri bat zaharraren gainean, baina hura ezabatu gabe.
+Modernotasunak hemen ez du tradizioa hondatzen. Kontrastearen bidez, tradizioa are nabarmenago bihurtzen du.
 
 ## Non egin argazkia
 
-Behetik pixka bat gora hartu, geruzak elkarren gainean ager daitezen. Hemen juntura da protagonista.
+Jarri Casa Lis apur bat alboan, eta utzi atzean harrizko presentzia zaharragoa sartzen.
 
 ## Nola jarraitu
 
-Hemendik Huerto de Calixto y Melibeara joango gara. Orain katedrala berriro paisaia bihurtzen ikusiko dugu.
+Hemendik Fonsecaraino azken tarte lasaia baino ez da geratzen. Gaur ikasitakoa lotzeko amaiera egokia da.
