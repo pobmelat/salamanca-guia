@@ -1,25 +1,25 @@
-# 08 · Dale Café
+# 08 · Patio Chico
 
 ## Sarrera
 
-Gosaria ez da gaurko ibilbidean parentesi hutsa. Aitzitik: hiriaren irudiak barrura eramateko unea da. Orain arte katedrala hainbat agerpenetan ikusi dugu; hemen, Dale Café-n, paseoaren lehen zatia pausatu eta bigarrena beste erritmo batekin hasiko dugu.
+Gosaldu ondoren hemen itzultzeak badu zentzua. Orain ez zaude presaka, eta katedral zaharra eta berria lotzen dituen juntura askoz argiago irakurtzen da.
 
 ## Zer begiratu
 
-Begiratu barruko mugimenduari, kafearen usainari, katiluen erritmoari eta sarreratik ikusten den kaleari. Monumentuz beteriko hiria berriro eguneroko hiri bihurtzen da. Hori da geldialdi honen interesa: orain arteko ikuspegi handi guztiak bizi den Salamanca batekin lotzea.
+Ez bilatu zatirik politena. Begiratu loturari. Nola pilatzen diren hormak, nola elkartzen diren bolumenak, eta nola hazten den eraikin bat aurrekoa ezabatu gabe.
 
 ## Historia
 
-Dale Café hemen sartzeak badu abantaila praktiko eta narratibo bat: goiz irekitzen du, eta paseoaren erdian arnasa hartzeko aukera ematen du katedralaren lehen irudi sendoak jada barruan dituzunean. Ez da soilik gosari teknikoa; ibilbidearen egitura bera da.
+Salamancako katedral berria ez zen zaharra botatzeko egin. Haren ondoan, hura zutik mantenduz, handitu zen. Erabaki horrek asko esaten du hiriari buruz.
 
 ## Bitxikeria
 
-Kafe on bat askotan edariak baino gehiago definitzen du. Noiz irekitzen duen, nola hartzen duen jendeak goiza eta ea benetan laguntzen dizun paseo baten erritmoa ez hausten. Horregatik da hobe batzuetan lurrean probatutako tokia izen ospetsu bat baino.
+Eraikuntzaren logika hau ia geologikoa da: geruza berri bat zaharraren gainean, baina hura ezabatu gabe.
 
 ## Non egin argazkia
 
-Barruan, katilua, mahaia eta giroa. Kanpoan, sarrera eta kalearen lehen mugimendua. Ez du zertan gaurko argazkirik ederrena izan; hobe da benetako geldialdiaren memoria izatea.
+Behetik pixka bat gora hartu, geruzak elkarren gainean ager daitezen. Hemen juntura da protagonista.
 
 ## Nola jarraitu
 
-Gosaldu ondoren, berriro hiri monumentalera itzuliko gara. Baina orain begirada pausatuagoa izango duzu, eta katedralaren inguruko sare sozial eta arkitektonikoa askoz hobeto irakurriko duzu.
+Hemendik Huerto de Calixto y Melibeara joango gara. Orain katedrala berriro paisaia bihurtzen ikusiko dugu.

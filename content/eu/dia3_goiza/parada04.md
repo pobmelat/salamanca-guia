@@ -1,25 +1,25 @@
-# 04 · Casa Lis eta harresiaren ertza
+# 04 · Casa de las Conchas
 
 ## Sarrera
 
-Casa Lisek beti harrapatzen du arreta, eta gaur ere bai. Baina interesgarriena ez da eraikin eder bat ikustea bakarrik. Interesgarriena da haren ondoan katedrala eta harresiaren logika zaharra beste modu batean agertzen direla.
+Hemen katedrala ez dago aurrean, baina haren hiri bera bai. Casa de las Conchas da hiri monumentalaren beste alfabetoetako bat: boterea, leinua, erakusgarritasuna eta sinboloa.
 
 ## Zer begiratu
 
-Begiratu lehenik Casa Lisen azal arinari: beira, egitura, kurba, gardentasuna. Gero altxa begirada atzean dagoen harri trinkoagora. Bi garai ez dira elkarri borrokan ageri. Elkarren neurri bihurtzen dira. Horregatik da leku hau hain baliotsua.
+Begiratu maskorren erritmoari, ateari eta espazioaren estutasunari. Pareko masa handiak ere kontuan hartu. Hemen ez dago objektu isolaturik; elkarrizketa arkitektoniko eta sozial bat dago.
 
 ## Historia
 
-Casa Lis XX. mendearen hasierako modernismoaren presentzia argia da Salamancan. Eta harresiaren ertzak gogorarazten digu hiri zaharrak ez zuela bere burua infinituki ireki; mugatu, babestu eta markatu egiten zuen. Bi logika desberdin, metro gutxira.
+XV. mendearen amaierako eta XVI.aren hasierako eraikin hau katedralaren garaikide den hiri-lengoaia baten adibide bikaina da. Oso bestelako hizkuntza erabiltzen du, baina hiri bera osatzen du.
 
 ## Bitxikeria
 
-Modernotasuna askotan gehigarri arrotza balitz bezala azaltzen da hiri historikoetan. Baina hemen ez du “hondatzen”. Kontrastearen bidez, zaharra are zaharrago eta sendoago sentiarazten du.
+Hiri bat ez da bere eraikinik handiena bakarrik. Haren zeinu txiki eta errepikakorrek ere egiten dute identitatea. Hemen maskorrak erritmo sinboliko bat dira.
 
 ## Non egin argazkia
 
-Ez hartu Casa Lis bakarrik. Saiatu haren lerro arinak eta atzeko harri zaharragoak irudi berean sartzen.
+Diagonaletik hartu fatxada, errepikapenaren erritmoa eta espazioaren estutasuna nabari daitezen.
 
 ## Nola jarraitu
 
-Handik gutxira lorategi batera igoko gara. Harriaren eta beiraren arteko tentsiotik, landarediak irudia zatika ematen duen puntu batera.
+Patio de Escuelaserantz joango gara. Han, katedralaren hiriaren eta jakintzaren hiriaren arteko lotura agerian geratuko da.

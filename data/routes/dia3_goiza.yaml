@@ -2,9 +2,9 @@ slug: dia3_goiza
 city: Salamanca
 lang: eu
 title: Katedrala ulertzeko goizeko paseo luzea
-subtitle: Katedrala ibaitik, lorategitik, plazatik eta unibertsitatetik nola aldatzen den ikusteko
-duration: "02:22"
-summary: Hotelatik abiatu, katedralaren hainbat irudi lotu, gosaldu, eta Fonsecan amaitzen den paseo narratiboa.
+subtitle: Katedrala plazen, unibertsitatearen eta hiriaren barruan nola aldatzen den ikusteko
+duration: "02:20"
+summary: Hotelatik abiatu, katedrala hainbat hiri-eszenatokitan irakurri, gosaldu, eta Fonsecan amaitzen den paseo narratiboa.
 start_label: Zenit Hall88 Studios Salamanca
 end_label: Colegio Arzobispo Fonseca
 google_maps:
@@ -15,25 +15,23 @@ google_maps:
     lat: 40.9652569
     lon: -5.6701508
   waypoints:
-    - lat: 40.9622900
-      lon: -5.6714700
-    - lat: 40.9609000
-      lon: -5.6699000
-    - lat: 40.9602200
-      lon: -5.6691800
-    - lat: 40.9605500
-      lon: -5.6669000
-    - lat: 40.9611400
-      lon: -5.6670200
-    - lat: 40.9609800
-      lon: -5.6657500
-    - query: C. San Pablo, 6, 37001 Salamanca
+    - lat: 40.96445
+      lon: -5.66859
+    - lat: 40.9650282
+      lon: -5.6640558
     - lat: 40.9629585
       lon: -5.6656516
     - lat: 40.9614420
       lon: -5.6672180
-    - lat: 40.96445
-      lon: -5.66859
+    - lat: 40.9609800
+      lon: -5.6657500
+    - query: C. San Pablo, 6, 37001 Salamanca
+    - lat: 40.9611400
+      lon: -5.6670200
+    - lat: 40.9605500
+      lon: -5.6669000
+    - lat: 40.9602200
+      lon: -5.6691800
 stops:
   - id: 1
     time_rel: "00:00"
@@ -42,141 +40,129 @@ stops:
     lat: 40.9702112
     lon: -5.6766756
     image: generated/hall88.svg
-    blurb: Gaurko paseoak ez du katedrala bisitatu nahi; lehenik, hirian nola agertzen den ikasi nahi du.
-    seeing: Oraingoz ez duzu katedrala aurrean. Hori da abantaila. Hiri arruntetik abiatuta, gero ikusiko duzun profila askoz nabarmenago bihurtuko da.
-    look_now: Begiratu kalearen erritmoari, itzalen luzerari eta harriak oraindik ez duen distira beroari. Geroago tonu horiek beraiek gidatuko dizute begirada.
-    photo_tip: Ez egin lehen argazki nagusia hemen; hobe da lehen ikuspegi handia ibaira iristean gordetzea.
-    hidden_detail: Hiria ulertzeko modurik onenetakoa ez da postalaren erdian hastea, baizik eta trantsizioan.
+    blurb: Gaur ez dugu katedrala urrunetik bilatuko; hiriaren barruan nola agertzen den ikasiko dugu.
+    seeing: Oraingoz ez duzu katedralaren irudi handia aurrean. Hori abantaila da. Hiri arruntetik sartuta, geroago harrizko masa monumentalak askoz indartsuago agertzen dira.
+    look_now: Begiratu kaleen erritmoari, itzal luzeari eta harriak oraindik hartu ez duen distira beroari. Geroago tonu horiek guztiek beste zentzu bat hartuko dute.
+    photo_tip: Ez egin oraindik gaurko argazki nagusia; gorde lehen irudi indartsua hiri monumentala irekitzen hasten denerako.
+    hidden_detail: Hiri historiko bat hobeto irakurtzen da haren ertzetik sartzen zarenean, ez zuzenean postalaren erdian jausita.
   - id: 2
-    time_rel: "00:18"
-    title: Puente Romano
-    short: Zubia
-    lat: 40.9622900
-    lon: -5.6714700
-    image: generated/puente-romano.svg
-    blurb: Hemen katedrala lehen aldiz multzo gisa irakurtzen da, ez fatxada gisa.
-    seeing: "Zubitik, katedrala ez da eraikin bakarra. Hiriko siluetaren erdiko pisua da: dorreak, kupulak eta harlandua, ibaiaren gaineko agerpen bakarrean bilduta."
-    look_now: Begiratu zubiaren harrizko erritmoari lehenik, eta gero utzi begirada urrunera joaten. Ikusiko duzu nola hazi zen hiria ibaiaren bestaldetik irakurtzen denean.
-    photo_tip: Ez geratu arkuen erdiko simetriaren bila; pauso batzuk mugitu eta hartu zubia eta katedrala lerro berean.
-    hidden_detail: Hemendik katedrala ia natural dirudi, baina benetan hiriaren boterea ibaiari erakusteko eraikia dagoen silueta da.
+    time_rel: "00:20"
+    title: Palacio de Monterrey
+    short: Monterrey
+    lat: 40.96445
+    lon: -5.66859
+    image: monterrey.jpg
+    blurb: Katedralara iritsi aurretik, Salamanca zeruaren kontra nola marrazten den ulertzeko lehen pista.
+    seeing: Hemen katedrala ez da oraindik protagonista, baina bai hiriaren goiko profila. Monterreyk erakusten du Salamancan boterea sarri gorantz eraiki dela, zerutik irakurtzeko moduan.
+    look_now: Begiratu gailurreriari, dorreei eta tximiniei. Pentsatu nola entrenatzen duen zure begirada goiko lerro horrek, gero katedralaren bolumenak hobeto nabaritzeko.
+    photo_tip: Urrundu pixka bat eta hartu goiko aldearen erritmoa, ez sarrera bakarrik.
+    hidden_detail: Eraikin amaitu gabe batek hiri oso baten iruditeria markatu dezake, eta Monterreyk hori ederki frogatzen du.
   - id: 3
-    time_rel: "00:30"
-    title: Tormes ibaiertza
-    short: Ibaia
-    lat: 40.9609000
-    lon: -5.6699000
-    image: generated/ribera-tormes.svg
-    blurb: Ibaiak katedrala urruntzen du, baina aldi berean handiago bihurtzen du.
-    seeing: Orain ez zaude zubiaren gainean, baizik eta uraren erritmoaren ondoan. Hemendik katedralaren masa bertikalak eta ibaiaren horizontala elkar neurtzen dituzte.
-    look_now: Begiratu uraren gainazalari eta gero harrizko hormei. Ikusi nola aldatzen den katedralaren presentzia ura bare edo mugitu dagoen arabera.
-    photo_tip: Islak badaude, aprobetxatu; haizerik badago, erabili ibaiertzeko landaredia lehen plano leun gisa.
-    hidden_detail: Goizeko argi baxuak harria eta hezetasuna bereizten ditu; horregatik dirudi hiria hemen gorago baino epelagoa eta hotzagoa aldi berean.
+    time_rel: "00:34"
+    title: Plaza Mayor
+    short: Plaza
+    lat: 40.9650282
+    lon: -5.6640558
+    image: plaza-mayor.jpg
+    blurb: Hiria barrutik ulertzeko gelarik handiena, katedrala ikusi aurretik espazio urbanoaren neurria ematen duena.
+    seeing: Plaza Mayorrek ez dizu katedrala erakusten, baina bai hura posible egiten duen hiria. Espazio publikoa, erritmoa, botere zibila eta eguneroko bizitza hemen antolatzen dira.
+    look_now: Gelditu erdian eta egin bira motel bat. Begiratu nola ixten den espazioa zure inguruan, eta nola prestatzen zaituen hiri trinkoago batera sartzeko.
+    photo_tip: Erdialdetik Udaletxea edo arku bat marko gisa erabilita, espazioaren eskala erakusten duen argazkia egin.
+    hidden_detail: Batzuetan monumentu baten aurreko prestakuntza beste leku batean hasten da; hemen gertatzen da hori.
   - id: 4
-    time_rel: "00:42"
-    title: Casa Lis eta harresiaren ertza
-    short: Casa Lis
-    lat: 40.9602200
-    lon: -5.6691800
-    image: generated/casa-lis.svg
-    blurb: Hiri modernoa eta katedralaren irudi zaharra elkarren ondoan agertzen diren leku berezia.
-    seeing: Casa Lisek beira eta burdina jartzen ditu, eta atzean katedrala harri trinko gisa geratzen da. Kontraste horrek azaltzen du Salamanca ez dela garai bakarreko hiria.
-    look_now: Begiratu lehenik Casa Lisen azal arinari. Gero altxa begirada atzeko bolumen zaharragora. Bien artean dago gaurko ibilaldiaren lehen tentsio handietako bat.
-    photo_tip: Jarri Casa Lis pixka bat alboan, eta utzi atzean harrizko bolumenak agertzen.
-    hidden_detail: Modernotasunak ez du hemen tradizioa hausten; tradizioa are nabarmenago bihurtzen du.
+    time_rel: "00:48"
+    title: Casa de las Conchas
+    short: Maskorrak
+    lat: 40.9629585
+    lon: -5.6656516
+    image: casa-conchas.jpg
+    blurb: Katedralaren inguruko hizkuntza soziala, sinbolikoa eta noblea irakurtzeko leku ezin hobea.
+    seeing: Hemen katedrala ez dago aurrean, baina haren hiri bera bai. Maskorrak, atea, leihoak eta pareko masa handiak hiri monumentalaren beste alfabeto bat dira.
+    look_now: Begiratu lehenik maskorren erritmoari, gero ateari, eta azkenik pareko eraikin handien presentziari. Hiru geruza horiek batera irakurtzen da lekua.
+    photo_tip: Diagonaletik hartu fatxada, errepikapenaren erritmoa eta espazioaren estutasuna nabari daitezen.
+    hidden_detail: Hiri bat ez da bere eraikin handiena bakarrik; haren zeinu txiki eta errepikakorrek ere identitatea egiten dute.
   - id: 5
-    time_rel: "00:54"
-    title: Calixto eta Melibearen Baratzea
-    short: Baratzea
-    lat: 40.9605500
-    lon: -5.6669000
-    image: generated/huerto-calixto.svg
-    blurb: Lorategi honek katedrala monumentu hutsa izatetik paisaia bihurtzen du.
-    seeing: Hemen katedrala ez dago plazaren erdian, baizik eta landarediaren, hormaren eta hutsuneen artean agertzen da. Horregatik ulertzen da hobeto hirian nola txertatuta dagoen.
-    look_now: Begiratu landareen gainetik ageri diren bolumenei. Ez saiatu dena batera hartzen; utzi hostoek irudia zatika eraikitzen.
-    photo_tip: Erabili landaredia aurrealdean, eta hartu katedrala haren gainetik agertzen denean.
-    hidden_detail: Lorategiak berak baino gehiago, ikuspegia dosifikatzeko moduak egiten du leku hau berezi.
+    time_rel: "01:00"
+    title: Patio de Escuelas
+    short: Unibertsitatea
+    lat: 40.9614420
+    lon: -5.6672180
+    image: universidad.jpg
+    blurb: Katedralaren hiriaren eta jakintzaren hiriaren arteko elkarrizketa hemen bihurtzen da ageriko.
+    seeing: Hemendik unibertsitatea ez da fatxada ospetsu bat bakarrik. Katedralaren auzokoa da, eta bi indar handi horiek elkarri neurria ematen diote.
+    look_now: Begiratu patioaren espazioari lehenik, gero fatxadari. Pentsatu katedrala oso gertu dagoela, nahiz eta oraindik ez duzun haren aurrealde handiena osorik aurrean.
+    photo_tip: Fray Luis edo patioaren zati bat sartuta, fatxadari arnasa emanez, plano estuegia saihestuz.
+    hidden_detail: Salamanca ulertzeko, fedearen eta jakintzaren eraikinak elkarren ondoan nola bizi diren ikusi behar da.
   - id: 6
-    time_rel: "01:06"
-    title: Patio Chico
-    short: Patio Chico
-    lat: 40.9611400
-    lon: -5.6670200
-    image: generated/patio-chico.svg
-    blurb: Hemen ulertzen da benetan katedral zaharra eta berria nola lotzen diren.
-    seeing: "Patio Chicotik bi katedralen arteko elkarrizketa irakurtzen da: bolumen erromaniko trinkoagoa eta geroago etorritako handitze gotiko sendoagoa."
-    look_now: Begiratu bi piezen arteko loturari, ez bakarrik dorre edo kupula bakar bati. Hemen interesgarriena ez da zatirik politena, baizik eta hazkundearen arrastoa.
-    photo_tip: Behetik pixka bat gora hartu, hormen eta dorreen geruzak elkarren gainean ikus daitezen.
-    hidden_detail: Katedral berria ez zen zaharra ordezkatzeko egin; haren ondoan, haren gainean ia, hazi zen.
-  - id: 7
-    time_rel: "01:18"
+    time_rel: "01:12"
     title: Plaza de Anaya
     short: Anaya
     lat: 40.9609800
     lon: -5.6657500
     image: generated/plaza-anaya.svg
-    blurb: Katedralaren aurrealdearen eta hura prestatzeko sortutako espazioaren arteko harremana agerian geratzen da.
-    seeing: Plaza honek katedralaren aurrealdea antolatzen du. Espazioa zabaldu egiten da, eta eraikinak lehen aldiz aurrez aurreko presentzia handia hartzen du.
-    look_now: Gelditu eskaileraren edo plazaren erdiko lerroaren antzeko puntu batean eta begiratu nola prestatzen dizun espazioak fatxada.
-    photo_tip: Ez hartu fatxada soilik; sartu plazaren zati bat, bestela galdu egingo da eskalaren joko osoa.
-    hidden_detail: Batzuetan plaza batek azaltzen du eraikin bat baino gehiago. Hemen gertatzen den hori da.
-  - id: 8
-    time_rel: "01:22"
+    blurb: Orain bai, katedralaren aurrealdea espazio zabal batek prestatuta eta neurtuta agertzen da.
+    seeing: Plaza honek katedralaren aurrealdea antolatzen du. Espazioa zabaltzen da, eta eraikinak lehen aldiz aurrez aurreko presentzia handia hartzen du.
+    look_now: Jarri plazaren erdiko lerroaren antzeko puntu batean eta begiratu nola prestatzen dizun hutsuneak berak fatxada.
+    photo_tip: Ez hartu fatxada soilik; sartu plazaren zati bat, bestela galdu egingo da aurrealdearen eskala.
+    hidden_detail: Batzuetan plaza batek azaltzen du eraikin bat bera baino gehiago. Hemen horixe gertatzen da.
+  - id: 7
+    time_rel: "01:24"
     title: Dale Café
     short: Gosaria
     lat:
     lon:
     query: C. San Pablo, 6, 37001 Salamanca
     image: generated/dale-cafe.svg
-    blurb: Gosaria pixka bat lehenago dator orain, paseoaren lehen irudi handiak pausatzeko eta hirira berriz itzultzeko.
-    seeing: Orain katedralaren irudi handitik atera eta kale biziagora sartzen zara. Horrek ez du kontakizuna hausten; aitzitik, orain arteko ikuspegiak hiriaren eguneroko erritmoarekin lotzen ditu.
-    look_now: Begiratu barruko mugimenduari, kafearen lurrunari eta kalearen esnatzeari. Hartu atseden hau benetako trantsizio gisa, ez soilik geldialdi praktiko gisa.
-    photo_tip: Barruan, giroa eta katilua; kanpoan, kalearen lehen mugimendua eta sarreraren intimitatea.
-    hidden_detail: Zuk probatuta ondo funtzionatu duen gosari-leku batek askotan gida baten benetako balioa handitzen du, ez bakarrik haren fama.
+    blurb: "Gosaria une egokian dator: katedrala hainbat ikuspegitatik irakurri ondoren, hiria barrutik arnasteko."
+    seeing: Orain katedralaren irudi handitik atera eta kale biziagora sartzen zara. Horrek ez du kontakizuna hausten; orain arteko ikuspegiak eguneroko Salamancarekin lotzen ditu.
+    look_now: Begiratu barruko mugimenduari, katiluen erritmoari eta kalearen esnatzeari. Hartu geldialdi hau benetako trantsizio gisa.
+    photo_tip: Barruan, giroa eta katilua; kanpoan, sarrera eta kalearen lehen mugimendua.
+    hidden_detail: Lurrean probatuta ondo funtzionatzen duen gosari-leku batek askotan gida baten benetako kalitatea handitzen du.
+  - id: 8
+    time_rel: "01:42"
+    title: Patio Chico
+    short: Patio Chico
+    lat: 40.9611400
+    lon: -5.6670200
+    image: generated/patio-chico.svg
+    blurb: Gosaldu ondoren, katedral zaharra eta berria elkarri lotuta nola hazi ziren berriz ikusteko lekurik onena.
+    seeing: Hemen ez duzu fatxada bakarrik ikusten; hazkundearen aztarna ikusten duzu. Pieza zaharra eta pieza berria elkarri itsatsita, ia geologia balira bezala.
+    look_now: Begiratu bi bolumenen arteko loturari, ez bakarrik dorre edo kupula bakar bati. Hemen interesgarriena juntura da.
+    photo_tip: Behetik pixka bat gora hartu, geruzak elkarren gainean ager daitezen.
+    hidden_detail: Katedral berria ez zen zaharra ezabatzeko egin; haren ondoan eta haren gainean ia hazi zen.
   - id: 9
-    time_rel: "01:46"
-    title: Casa de las Conchas
-    short: Maskorrak
-    lat: 40.9629585
-    lon: -5.6656516
-    image: casa-conchas.jpg
-    blurb: Katedraletik aldendu arren, hiri monumental osoaren sare sinbolikoa hobeto ulertzen da.
-    seeing: Hemen katedrala ez da protagonista, baina haren inguruko Salamanca ulertzeko funtsezko pieza bat bai. Nobleziaren, ordenen eta botere sinbolikoaren hizkuntza ageri da fatxadan.
-    look_now: Begiratu maskorren erritmoari, gero ateari, eta azkenik parean duen Clerecíaren presentziari. Hiru begirada horiek batera hartuta irakurtzen da lekua.
-    photo_tip: Clerecíaren aldetik, diagonalean, maskorren erritmoa eta espazioaren estutasuna batera hartzeko.
-    hidden_detail: Hiri bat ulertzea ez da bere eraikin handiena bakarrik ulertzea; haren inguruko hizkuntza soziala ere bai.
+    time_rel: "01:54"
+    title: Calixto eta Melibearen Baratzea
+    short: Baratzea
+    lat: 40.9605500
+    lon: -5.6669000
+    image: generated/huerto-calixto.svg
+    blurb: Hemen katedrala berriro monumentu hutsa izatetik paisaia eta hiri-ehun bihurtzen da.
+    seeing: "Landarediaren, hormaren eta hutsuneen artean agertzen denean, katedrala txertatuagoa dirudi. Hori da puntu honen grazia: ez du erakusten bakarrik, baizik eta dosifikatu egiten du."
+    look_now: Begiratu hostoen gainetik ageri diren bolumenei. Ez saiatu dena batera harrapatzen; utzi irudia zatika eraikitzen.
+    photo_tip: Erabili landaredia aurrealdean eta hartu katedrala haren gainetik agertzen denean.
+    hidden_detail: Lorategiak berak baino gehiago, ikuspegia dosifikatzeko moduak egiten du leku hau berezi.
   - id: 10
-    time_rel: "01:58"
-    title: Patio de Escuelas
-    short: Unibertsitatea
-    lat: 40.9614420
-    lon: -5.6672180
-    image: universidad.jpg
-    blurb: Katedralaren hiriaren eta jakintzaren hiriaren arteko elkarrizketa agerian geratzen da.
-    seeing: Hemendik unibertsitatea ez da bakarrik fatxada ospetsu bat. Katedralaren munduarekiko auzokidea da, eta biak elkarri neurria ematen diote.
-    look_now: Begiratu unibertsitatearen fatxadari, gero patioaren espazioari, eta pentsatu katedrala oso gertu dagoela nahiz eta une honetan ez duzun osorik ikusten.
-    photo_tip: Fray Luis lehen planoan edo albo batean utzi, eta fatxadaren erliebeak argi leunarekin hartu.
-    hidden_detail: Salamanca ulertzeko, fedearen eta jakintzaren eraikinek elkarren ondoan nola bizi diren ikusi behar da.
+    time_rel: "02:06"
+    title: Casa Lis eta harresiaren ertza
+    short: Casa Lis
+    lat: 40.9602200
+    lon: -5.6691800
+    image: generated/casa-lis.svg
+    blurb: Ibilaldiaren amaieran, modernitateak eta hiri zaharrak elkar nola neurtzen duten berriz agertzen da.
+    seeing: Casa Lisek beira eta burdina jartzen ditu, eta atzean hiri zaharraren logika harrizkoa geratzen da. Horrek azaltzen du Salamanca ez dela garai bakarreko pieza.
+    look_now: Begiratu lehenik azal arinari, gero atzeko bolumen zaharragora. Bien arteko tentsioak gaurko paseo osoa laburbiltzen du.
+    photo_tip: Jarri Casa Lis apur bat alboan, eta utzi atzean harri zaharragoaren presentzia sartzen.
+    hidden_detail: Modernotasunak hemen ez du tradizioa hondatzen; alderantziz, tradizioa are nabarmenago bihurtzen du.
   - id: 11
-    time_rel: "02:12"
-    title: Palacio de Monterrey
-    short: Monterrey
-    lat: 40.96445
-    lon: -5.66859
-    image: monterrey.jpg
-    blurb: Katedralaren ibilbidea amaitzear dagoenean, hiriko beste zeru-lerro noble bat agertzen da.
-    seeing: Jauregi honek erakusten du katedralaren dorreak ez direla bakarrak Salamancako zeru gainean. Hiriaren goiko lerroak hainbat botere eta garaitako siluetak bildu ditu.
-    look_now: Begiratu goiko gailurreriari, tximiniei eta dorreei. Galdetu zeure buruari zergatik gogoratzen den hain ondo amaitu gabe dagoen eraikin bat.
-    photo_tip: Urrundu pixka bat eta hartu goiko aldearen erritmoa, ez bakarrik sarrera.
-    hidden_detail: Hiri baten memoria askotan zeruaren kontra mozten diren formek gidatzen dute.
-  - id: 12
-    time_rel: "02:22"
+    time_rel: "02:20"
     title: Colegio Arzobispo Fonseca
     short: Fonseca
     lat: 40.9652569
     lon: -5.6701508
     image: fonseca.jpg
-    blurb: Paseoa hemen ixten da, katedrala ulertzetik hiri akademiko eta instituzionalera itzulita.
-    seeing: "Fonsecan amaitzeak zentzua du: paseo osoan zehar eliza, unibertsitatea, plaza eta noblezia lotu ditugu, eta hemen berriz ere lotura horiek eguneroko erabilera batean biltzen dira."
-    look_now: Begiratu atariari eta fatxadaren lasaitasunari. Ez du katedralaren eskala, baina bai Salamancaren beste botere isilago baten presentzia.
-    photo_tip: Kalearen beste aldetik, presarik gabe, fatxada osoa eta sarrerako tentsio lasaia hartzeko.
+    blurb: Paseoa hemen ixten da, katedrala ulertzetik hiri akademiko eta instituzionalera berriz itzulita.
+    seeing: Fonsecan amaitzeak zentzua du. Paseo osoan zehar katedrala, unibertsitatea, plaza eta hiriaren beste hizkuntza batzuk lotu ditugu, eta hemen berriz ere sare hori eguneroko erabileran biltzen da.
+    look_now: Begiratu atariari eta fatxadaren lasaitasunari. Ez du katedralaren dramatismoa, baina bai hiriaren beste botere isilago baten presentzia.
+    photo_tip: Kalearen beste aldetik, presarik gabe, fatxada osoa eta sarrerako lasaitasuna hartzeko.
     hidden_detail: Ibilbidea ez da katedralaren aurrean amaitzen, baizik eta hura posible egin zuen hiri-sarearen beste pieza batean.

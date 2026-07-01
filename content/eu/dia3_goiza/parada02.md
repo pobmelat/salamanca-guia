@@ -1,25 +1,25 @@
-# 02 · Puente Romano
+# 02 · Palacio de Monterrey
 
 ## Sarrera
 
-Hementxe iristen da lehen errebelazioa. Katedrala ez da oraindik fatxada bat, ezta sarrera nagusi bat ere. Silueta bat da, masa bat, ibaiaren bestaldetik bere burua osorik aurkezten duen hiri-altxamendu bat.
+Monterreyk ez du katedrala ordezkatzen, baina bai prestatu. Hemen ulertzen hasten da Salamancan boterea sarri gorantz eraiki dela, zeruaren kontra irakurtzeko moduan.
 
 ## Zer begiratu
 
-Begiratu arkuen erritmoari lehenik, eta gero utzi begirada gorantz joaten. Zubia eta katedrala elkarrekin irakurtzen direnean, ulertzen da Salamanca ez zela soilik barrurantz eraikitako hiria. Kanpotik ikusteko ere eraiki zen. Boterea, fedea eta paisaia lerro bakarrean elkartzen dira hemen.
+Begiratu gailurreriari, dorreei eta tximiniei. Katedrala oraindik ez dago aurrean, baina zure begirada jada goiko lerro horietan entrenatzen ari da. Horrek gero katedralaren bolumenak hobeto irakurtzen lagunduko dizu.
 
 ## Historia
 
-Puente Romanoren zatirik zaharrena erromatarra da, nahiz eta mende askotan berreraiki eta egokitu den. Horrek badu sinbolo indartsu bat: pasabidea lehenik, irudia gero. Baina gaur egun biak batera iristen zaizkigu. Zubia igarobidea da; katedrala helmuga bisuala.
+Monterrey XVI. mendeko proiektu handiago baten zati amaitua da. Hori bera da haren indarra: amaitu gabe egon arren, hiriaren iruditerian leku handia lortu zuen.
 
 ## Bitxikeria
 
-Zubi zaharretan ingeniaritza ona ia ezkutuan dago. Arkuaren forma, pisuaren banaketa, uraren presioaren aurkako erantzuna… dena dago hemen, baina begia ez da soilik teknikan geratzen; teknikak paisaia eraikitzen du.
+Batzuetan amaitu gabeko eraikinek amaitutakoek baino indar handiagoa dute. Irudimenari lekua uzten diotelako.
 
 ## Non egin argazkia
 
-Ez gelditu beti erdian. Mugi zaitez zertxobait eta hartu zubia eta katedrala lerro berean, elkarren neurria balitz bezala.
+Urrundu pixka bat eta hartu goiko erritmoa. Ez gelditu sarreran bertan.
 
 ## Nola jarraitu
 
-Orain ibaiertzera jaitsiko gara. Zubitik katedrala irudi oso bat zen; handik gutxira, uraren ondoan, tonu eta gainazalen bidez ulertzen hasiko gara.
+Hemendik Plaza Mayorrera hurbilduko gara. Katedrala ikusi aurretik, haren hiria nolakoa den ulertzea komeni da.

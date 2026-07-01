@@ -1,25 +1,25 @@
-# 10 · Patio de Escuelas
+# 10 · Casa Lis eta harresiaren ertza
 
 ## Sarrera
 
-Hemen Salamancaren beste oreka handi bat ageri da: katedrala eta unibertsitatea. Fedearen eta jakintzaren eraikinak, oso gertu, elkarren itzalean baina elkarren kontra ez.
+Ibilaldiaren amaieran, modernitateak eta hiri zaharrak elkar nola neurtzen duten berriz agertzen da. Horregatik da puntu hau hain baliotsua amaiera aldera.
 
 ## Zer begiratu
 
-Begiratu patioaren espazioari lehenik, eta gero fatxadari. Ez da beharrezkoa katedrala osorik ikustea haren presentzia nabaritzeko. Gertu dagoen masa historikoak espazioa bera baldintzatzen du. Horregatik da interesgarria leku hau: ikusgai dagoena baino gehiago iradokitzen du.
+Begiratu lehenik beirari, egiturari eta arintasunari. Gero altxa begirada atzeko logika harrizkora. Bien arteko tentsioak gaurko paseo osoa laburbiltzen du.
 
 ## Historia
 
-Salamancako unibertsitatea eta katedral-multzoa ez dira bi mundu paralelo. Mendeetan zehar elkarri lotuta bizi izan dira, eta hiriaren ospea bi ardatz horien inguruan eraiki da neurri handi batean.
+Casa Lis XX. mendearen hasierako modernismoaren arrastoa da Salamancan. Harresiaren ertzak, berriz, hiri zaharraren logika itxiagoa gogorarazten du. Metro gutxitan bi garai eta bi modu.
 
 ## Bitxikeria
 
-Jende asko igelaren bila dator, eta hori ondo dago. Baina hemen askoz interesgarriagoa da galdetzea zergatik dauden horren gertu bi botere handiak: eliza eta ikasketa.
+Modernotasunak hemen ez du tradizioa hondatzen. Kontrastearen bidez, tradizioa are nabarmenago bihurtzen du.
 
 ## Non egin argazkia
 
-Fray Luis edo patioaren zati bat sartuta, fatxadari arnasa emanez. Ez estutu gehiegi planoa.
+Jarri Casa Lis apur bat alboan, eta utzi atzean harrizko presentzia zaharragoa sartzen.
 
 ## Nola jarraitu
 
-Azken geldialdi handira joango gara orain: Monterrey. Katedralaren kontakizunetik ateratzen garenean ere, zergatik jarraitzen duen Salamanca zeru-lerrora begira ulertuko dugu.
+Hemendik Fonsecaraino azken tarte lasaia baino ez da geratzen. Gaur ikasitakoa lotzeko amaiera egokia da.

@@ -1,25 +1,25 @@
-# 06 · Patio Chico
+# 06 · Plaza de Anaya
 
 ## Sarrera
 
-Hau da gaurko ibilbideko puntu giltzarrietako bat. Hemen uzten dio katedralak irudi urrun bat izateari, eta historia eraikia bihurtzen da. Pieza zaharra eta pieza berria batera ageri dira.
+Orain bai, katedralaren aurrealdea aurrez aurre agertzen da. Baina interesgarriena ez da fatxada bera bakarrik; aurretik duen hutsuneak nola prestatzen duen baizik.
 
 ## Zer begiratu
 
-Ez bilatu “zatirik ederrena”. Begiratu loturari. Nola elkartzen diren bolumenak, nola pilatzen diren hormak, nola aldatu zen eskala mendeen poderioz. Katedral zaharra trinkoagoa, baxuagoa eta barrurantzkoa da; berria handiagoa, ausartagoa, espazio gehiago hartzen duena.
+Jarri plazaren erdiko lerroaren antzeko puntu batean eta begiratu nola irekitzen den espazioa zure aurrean. Hutsune honek aurrealdeari arnasa ematen dio, eta horregatik sentitzen da hain handia.
 
 ## Historia
 
-Salamancako katedral berria ez zen zaharra botatzeko egin. Haren ondoan, hura zutik mantenduz, handitu zen. Erabaki horrek asko esaten du hiriari buruz: ez du aurrekoa ezabatzen; gainean eraikitzen du.
+Katedrala ez dago bakarrik. Plaza batek, jauregi batek eta inguruko ertzek osatzen dute. Horregatik da leku hau hain garrantzitsua: aurrealdea espazio publiko baten bidez eraikitzen da.
 
 ## Bitxikeria
 
-Eraikuntzaren logika hau ia geologikoa da. Geruza berri bat zaharraren gainean, baina hura estali gabe. Horregatik da hain interesgarria Salamanca: hiriaren historia ez dago testuetan bakarrik, junturetan dago.
+Batzuetan plaza batek azaltzen du eraikin bat bera baino gehiago. Hemen horixe gertatzen da: katedralaren tamaina ez dago hormetan bakarrik, aurrean duen hutsunean ere badago.
 
 ## Non egin argazkia
 
-Behetik gora, geruzak bata bestearen gainean ikus daitezen. Ez saiatu dorre bakar bat isolatzen.
+Ez hartu fatxada soilik; sartu plazaren zati bat, bestela galdu egingo da aurrealdearen eskala.
 
 ## Nola jarraitu
 
-Plaza de Anayara joango gara orain. Hemen juntura irakurri dugu; handik aurrera aurrealde osoa espazio zabalago batek nola aurkezten duen ikusiko dugu.
+Orain gosariaren geldialdia egingo dugu. Une egokian dator: jada ulertu duzu katedrala hainbat eszenatokitan agertzen dela, eta orain arnasa har dezakezu.

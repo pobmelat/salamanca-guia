@@ -1,25 +1,25 @@
-# 07 · Plaza de Anaya
+# 07 · Dale Café
 
 ## Sarrera
 
-Plaza de Anayara ateratzen zarenean, katedrala beste hizkuntza batean hasten da hitz egiten. Patio Chicoko gertutasun trinkoa atzean utzi, eta orain espazio zabal batek aurrealdea prestatu egiten dizu.
+Gosaria ez da parentesi hutsa. Orain arte katedrala plazetan, unibertsitatearen ondoan eta hiriaren barruan irakurri dugu. Hemen, Dale Café-n, irudi horiek pausatu eta eguneroko Salamancarekin lotzen dira.
 
 ## Zer begiratu
 
-Plaza batek egiten duen lana askotan oharkabean pasatzen da. Hemen plazak ez du soilik katedrala inguratzen: ikusteko modua antolatzen du. Eskala handitu egiten da, fatxada arnasa hartzen hasten da, eta eraikinak lehen aldiz aurrez aurreko presentzia handia hartzen du.
+Begiratu barruko mugimenduari, katiluen erritmoari, jendearen sarrera-irteerei eta kalearen esnatzeari. Monumentuz beteriko hiria berriro eguneroko hiri bihurtzen da, eta hori ezinbestekoa da benetan ulertzeko.
 
 ## Historia
 
-Palacio de Anaya eta plaza osoaren antolamenduak frogatzen dute hiri historikoak ez direla monumentuen bilduma kaotiko bat. Espazio publikoaren bidez pentsatuak daude. Katedrala ez dago bakarrik; aurretik duen hutsuneak osatzen du.
+Geldialdi honen balioa ez dago bakarrik kafean. Zuk probatuta ondo funtzionatzen duen leku batean dago. Horrek gidari baten logikan pisu handia du: errealitateak teoria zuzentzen du.
 
 ## Bitxikeria
 
-Askotan eraikinak baino gehiago gogoratzen ditugu haien aurreko plazak. Ez gara konturatzen, baina memoria bisualak oso ondo gordetzen ditu “aurkezpen-lekuak”.
+Batzuetan tokirik onena ez da famatuena, baizik eta ordutegian, erritmoan eta benetako esperientzian ondoen txertatzen dena.
 
 ## Non egin argazkia
 
-Ez hartu fatxada bakarrik. Utzi plazaren zati bat barruan, bestela eskalaren jokoa galduko da.
+Barruan, giroa eta katilua; kanpoan, sarrera eta kalearen lehen mugimendua. Ez du zertan gaurko argazkirik ederrena izan.
 
 ## Nola jarraitu
 
-Orain gosariaren geldialdia egingo dugu. Ez da eten arrunta: orain arte eraiki dugun irudia pausatzeko modu bat da.
+Gosaldu ondoren, Patio Chicora itzuliko gara. Begirada pausatuagoa izango duzu, eta katedralaren hazkundea are argiago ikusiko duzu.

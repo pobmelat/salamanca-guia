@@ -1,25 +1,25 @@
-# 05 · Calixto eta Melibearen Baratzea
+# 05 · Patio de Escuelas
 
 ## Sarrera
 
-Lorategi honek katedrala ezkutatu egiten du pixka bat, eta horregatik ulertzen da hobeto. Batzuetan eraikin handi bat zuzenean ikustea baino interesgarriagoa da haren presentzia zatika nabaritzea.
+Hemen Salamancaren oreka handietako bat ageri da: katedrala eta unibertsitatea. Oso gertu daude, elkarren itzalean baina elkarren kontra ez.
 
 ## Zer begiratu
 
-Begiratu hostoen gainetik ageri diren bolumenei. Hemen katedrala ez da plaza batean jarritako objektu bakarra. Hiriaren ehunean eta paisaian txertatutako masa bat da. Baratzeak, hormek eta hutsuneek irudia dosifikatu egiten dute.
+Begiratu patioaren espazioari lehenik, eta gero fatxadari. Katedrala ez dago osorik aurrean, baina haren presentzia nabaritzen da espazioaren tentsioan eta inguruko harrizko dentsitatean.
 
 ## Historia
 
-Leku hau literaturarekin lotzen da bere izenagatik, baina gaur guretzat interesgarriena beste zerbait da: hiriaren eta naturaren arteko tarte txiki bat eskaintzen du, eta handik katedrala ez da hain monumental sentitzen, baizik eta bizitzeko hiri baten pieza.
+Salamancako unibertsitatea eta katedral-multzoa ez dira bi mundu paralelo. Mendeetan zehar elkarri lotuta bizi izan dira, eta hiriaren ospea bi ardatz horien inguruan eraiki da neurri handi batean.
 
 ## Bitxikeria
 
-Lorategiek mikroklima sortzen dute. Itzalak, hezetasunak eta orientazioak aldatzen dituzte azalaren koloreak eta airearen sentsazioa. Horregatik, puntu honetako katedrala ez da zubitik ikusten zenuen bera.
+Jende asko igelaren bila dator. Ondo dago. Baina hemen are interesgarriagoa da galdetzea zergatik dauden horren gertu bi botere handiak: eliza eta ikasketa.
 
 ## Non egin argazkia
 
-Erabili landaredia aurrealdean. Ez garbitu irudia gehiegi. Hobe da lekuaren intimitatea mantentzea.
+Fray Luis edo patioaren zati bat sartuta, fatxadari arnasa emanez, plano estuegia saihestuz.
 
 ## Nola jarraitu
 
-Patio Chicora mugituko gara. Orain arte katedrala paisaian txertatuta ikusi dugu; hurrengo puntuan, bere hazkundearen juntura ia ukitzeko moduan izango dugu.
+Plaza de Anayara hurbilduko gara orain. Han katedralaren aurrealde handia espazio zabal batek nola prestatzen duen ikusiko dugu.

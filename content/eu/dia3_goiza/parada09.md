@@ -1,25 +1,25 @@
-# 09 · Casa de las Conchas
+# 09 · Calixto eta Melibearen Baratzea
 
 ## Sarrera
 
-Gosalditik aterata, monumentuak berriro agertzen dira, baina orain ez dugu katedrala bilatzen bakarrik. Haren inguruko hizkuntza soziala, sinbolikoa eta arkitektonikoa ere irakurtzen hasten gara.
+Lorategi honek katedrala berriro aldatu egiten du. Orain ez dago aurrealde handi gisa, ezta juntura estu gisa ere. Paisaia eta hiri-ehun gisa agertzen da.
 
 ## Zer begiratu
 
-Maskorrak, atea, leihoetako burdin-lana eta pareko masa handiak. Leku hau ez da katedralaren itzalpean dagoen apainketa bitxi bat. Hiri monumentalaren beste alfabeto baten zatia da: boterea, leinua, orden erlijiosoak, erakusgarritasuna.
+Begiratu hostoen gainetik ageri diren bolumenei. Hemen irudia zatika dator, eta horregatik ulertzen da hobeto nola txertatzen den katedrala hirian.
 
 ## Historia
 
-Casa de las Conchas XV. mendearen amaierako eta XVI.aren hasierako eraikina da. Oso bestelako hizkuntza erabiltzen du katedralak baino, baina bien artean hiri bera osatzen da: fedea, noblezia eta prestigio publikoa elkarrizketan.
+Leku hau literaturarekin lotzen da izenagatik, baina gaur guretzat interesgarriena ikuspegia dosifikatzeko modua da. Hemen monumentua ez da objektu bakarra; hiriaren zati bat da.
 
 ## Bitxikeria
 
-Hiri bat ez da bere eraikinik handiena bakarrik. Haren zeinu txiki eta errepikakorrek ere osatzen dute identitatea. Hemen maskorrak horixe dira: erritmo sinboliko bat.
+Lorategiak berak baino gehiago, ikuspegia dosifikatzeko moduak egiten du leku hau berezi.
 
 ## Non egin argazkia
 
-Diagonaletik hartu, maskorren errepikapena eta espazioaren estutasuna nabari daitezen.
+Erabili landaredia aurrealdean eta hartu katedrala haren gainetik agertzen denean.
 
 ## Nola jarraitu
 
-Patio de Escuelaserantz joango gara orain. Han, katedralaren hiriak unibertsitatearen hiriarekin nola egiten duen bat ikusiko dugu.
+Azken aurreko geldialdia Casa Lis eta harresiaren ertza izango da. Han ikusiko dugu nola neurtzen diren elkar hiri zaharra eta modernitate arina.
